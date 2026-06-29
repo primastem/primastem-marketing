@@ -17,6 +17,9 @@ Roboten kör på vilket rutat underlag eller ark som helst: de du redan har, ell
 ### Lära av misstagen
 Programmet stannar kvar på konsolen, framför barnet. Om roboten kör åt fel håll eller linjen blir sned hittar eleven själv det felaktiga steget, ändrar en del av programmet och försöker igen. Så lär sig barnen att rätta sina misstag i stället för att vara rädda för dem. Med pennan blir det ännu tydligare: felet syns direkt på pappret. Det stämmer med läroplanen: vinklar, figurer och en första programmering av en robot.
 
+### Roboten pratar
+Den säger varje förflyttning och varje kommando högt, på 17 språk. Kör den över ett ordkort, så uttalar den ordet: ungefär 90 av dem, från «hus» till «bio». Den säger bokstäverna i alfabetet och spelar noter. Så täcker en robot inte bara matematik och kod, utan även alfabetet, de första orden och musik.
+
 ### 2 nivåer, 1 robot
 4-7 år (de första åren i grundskolan): förflyttningar och svängar, labyrinter, sekvenser, loopar, felsökning.
 7-10 år (de senare åren i grundskolan): exakta avstånd och vinklar, aritmetik, geometri av figurer, ritande med penna.

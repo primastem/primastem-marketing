@@ -17,6 +17,9 @@ Der Roboter fährt auf jedem karierten Teppich oder Blatt: auf denen, die Sie sc
 ### Aus Fehlern lernen
 Das Programm bleibt auf der Konsole, vor den Augen des Kindes. Fährt der Roboter falsch oder wird die Linie krumm, findet das Kind den fehlerhaften Schritt selbst, ändert einen Teil des Programms und versucht es erneut. So lernen Kinder, Fehler zu beheben, statt sie zu fürchten. Mit dem Stift wird es noch anschaulicher: Der Fehler ist sofort auf dem Papier zu sehen. Das entspricht dem Lehrplan: Winkel, Formen und erstes Programmieren eines Roboters.
 
+### Der Roboter spricht
+Jeden Schritt und jeden Befehl sagt der Roboter laut an, in 17 Sprachen. Fährt er auf eine Wortkarte, spricht er das Wort aus: rund 90 davon, von „Haus" bis „Kino". Er benennt die Buchstaben des Alphabets und spielt Noten. So deckt ein Roboter nicht nur Mathematik und Code ab, sondern auch das Alphabet, erste Wörter und Musik.
+
 ### 2 Stufen, 1 Roboter
 4-7 Jahre (untere Grundschulklassen): Bewegungen und Drehungen, Labyrinthe, Sequenzen, Schleifen, Fehlersuche.
 7-10 Jahre (obere Grundschulklassen): genaue Strecken und Winkel, Arithmetik, Geometrie der Formen, Zeichnen mit dem Stift.

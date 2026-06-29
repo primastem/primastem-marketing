@@ -17,6 +17,9 @@ Roboten kjører på et hvilket som helst rutet underlag eller ark: de du allered
 ### Lære av feil
 Programmet blir værende på konsollen, foran barnet. Hvis roboten kjører feil vei eller streken blir skjev, finner eleven selv det gale steget, endrer en del av programmet og prøver igjen. Slik lærer barna å rette feilene sine i stedet for å frykte dem. Med tusjen blir det enda tydeligere: feilen vises med en gang på arket. Dette samsvarer med læreplanen: vinkler, figurer og en første programmering av en robot.
 
+### Roboten snakker
+Den sier hvert trekk og hver kommando høyt, på 17 språk. Kjør den over et ordkort, og den uttaler ordet: rundt 90 av dem, fra «hus» til «kino». Den sier bokstavene i alfabetet og spiller noter. Slik dekker én robot ikke bare matematikk og kode, men også alfabetet, de første ordene og musikk.
+
 ### 2 nivåer, 1 robot
 4-7 år (de første trinnene på barneskolen): bevegelser og svinger, labyrinter, sekvenser, løkker, feilsøking.
 7-10 år (de øverste trinnene på barneskolen): nøyaktige avstander og vinkler, regning, geometri av figurer, tegning med tusj.

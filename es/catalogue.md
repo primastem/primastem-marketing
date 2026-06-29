@@ -17,6 +17,9 @@ El robot circula sobre cualquier alfombra o lámina cuadriculada: las que ya tie
 ### Aprender de los errores
 El programa queda en la consola, ante los ojos del niño. Si el robot va por donde no debe o el trazo sale torcido, el alumno encuentra por sí mismo el paso erróneo, cambia parte del programa y vuelve a probar. Así los niños aprenden a corregir sus errores en lugar de temerlos. Con el rotulador es aún más claro: el error se ve enseguida en el papel. Responde al currículo escolar: ángulos, figuras y una primera programación de un robot.
 
+### El robot habla
+Dice cada movimiento y cada orden en voz alta, en 17 idiomas. Pásalo por encima de una tarjeta de palabra y la pronuncia: unas 90, de «casa» a «cine». Nombra las letras del alfabeto y toca notas. Así un solo robot abarca no solo las matemáticas y el código, sino también el alfabeto, las primeras palabras y la música.
+
 ### 2 niveles, 1 robot
 4-7 años (primeros cursos de primaria): desplazamientos y giros, laberintos, secuencias, bucles, depuración.
 7-10 años (últimos cursos de primaria): distancias y ángulos precisos, aritmética, geometría de figuras, trazado con rotulador.

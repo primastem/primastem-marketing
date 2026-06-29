@@ -17,6 +17,9 @@ Le robot roule sur n'importe quel quadrillage ou tapis : ceux que vous avez déj
 ### Apprendre de ses erreurs
 Le programme reste posé sur la console, sous les yeux de l'enfant. Si le robot part au mauvais endroit ou si le tracé est de travers, l'élève repère lui-même l'étape fautive, modifie une partie du programme et recommence. Les enfants apprennent ainsi à corriger leurs erreurs plutôt qu'à en avoir peur. Avec le feutre, c'est encore plus parlant : l'erreur se voit aussitôt sur la feuille. Cela répond aux programmes scolaires : angles, figures et première programmation d'un robot.
 
+### Le robot parle
+Il dit chaque déplacement et chaque commande à voix haute, en 17 langues. Passez-le sur une carte-mot et il la prononce : près de 90, de « maison » à « cinéma ». Il nomme les lettres de l'alphabet et joue des notes. Ainsi un seul robot couvre non seulement les maths et le code, mais aussi l'alphabet, les premiers mots et la musique.
+
 ### 2 niveaux, 1 robot
 4-7 ans (petites classes du primaire) : déplacements et virages, labyrinthes, séquences, boucles, débogage.
 7-10 ans (grandes classes du primaire) : distances et angles précis, arithmétique, géométrie des figures, tracé au feutre.

@@ -17,6 +17,9 @@ Il robot si muove su qualsiasi tappeto o foglio a quadretti: quelli che avete gi
 ### Imparare dagli errori
 Il programma resta sulla consolle, davanti agli occhi del bambino. Se il robot va dove non deve o la linea viene storta, l'alunno trova da solo il passo sbagliato, cambia una parte del programma e riprova. Così i bambini imparano a correggere gli errori invece di temerli. Con il pennarello è ancora più evidente: l'errore si vede subito sul foglio. Risponde al programma scolastico: angoli, figure e una prima programmazione di un robot.
 
+### Il robot parla
+Dice ad alta voce ogni movimento e ogni comando, in 17 lingue. Passa su una carta-parola e la pronuncia: circa 90, da «casa» a «cinema». Nomina le lettere dell'alfabeto e suona le note. Così un solo robot copre non solo la matematica e il codice, ma anche l'alfabeto, le prime parole e la musica.
+
 ### 2 livelli, 1 robot
 4-7 anni (prime classi della primaria): spostamenti e svolte, labirinti, sequenze, cicli, ricerca degli errori.
 7-10 anni (ultime classi della primaria): distanze e angoli precisi, aritmetica, geometria delle figure, disegno con il pennarello.

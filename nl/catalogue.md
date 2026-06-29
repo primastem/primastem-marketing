@@ -17,6 +17,9 @@ De robot rijdt op elke geruite mat of vel: die u al hebt, of die u snel zelf afd
 ### Leren van fouten
 Het programma blijft op de console, voor de ogen van het kind. Gaat de robot de verkeerde kant op of wordt de lijn scheef, dan vindt de leerling zelf de foute stap, wijzigt een deel van het programma en probeert opnieuw. Kinderen leren zo hun fouten te verbeteren in plaats van ze te vrezen. Met de stift wordt het nog duidelijker: de fout is meteen op papier te zien. Dit sluit aan op het lesprogramma: hoeken, vormen en een eerste kennismaking met robotprogrammeren.
 
+### De robot praat
+Hij zegt elke beweging en elk commando hardop, in 17 talen. Rijd hem over een woordkaart en hij spreekt het woord uit: zo'n 90 stuks, van «huis» tot «bioscoop». Hij benoemt de letters van het alfabet en speelt noten. Zo dekt één robot niet alleen wiskunde en code, maar ook het alfabet, eerste woorden en muziek.
+
 ### 2 niveaus, 1 robot
 4-7 jaar (onderbouw basisschool): bewegingen en bochten, doolhoven, reeksen, lussen, fouten zoeken.
 7-10 jaar (bovenbouw basisschool): precieze afstanden en hoeken, rekenen, meetkunde van vormen, tekenen met een stift.

@@ -17,6 +17,9 @@ The robot runs on any gridded mat or sheet: the ones you already have, or ones y
 ### Learning from mistakes
 The program stays on the console, in front of the child. If the robot goes the wrong way or the line comes out crooked, the pupil finds the faulty step themselves, changes part of the program and tries again. Children learn to fix their mistakes instead of fearing them. With the marker it is even clearer: the mistake shows up straight away on the paper. This matches the school curriculum: angles, shapes and a first step into robot programming.
 
+### The robot speaks
+It says every move and every command out loud, in 17 languages. Drive it onto a word card and it pronounces the word: about 90 of them, from "house" to "cinema". It sounds out the letters of the alphabet and plays musical notes. So one robot covers not just maths and coding, but the alphabet, first words and music.
+
 ### 2 levels, 1 robot
 4-7 years (early primary): moves and turns, mazes, sequences, loops, debugging.
 7-10 years (upper primary): precise distances and angles, arithmetic, geometry of shapes, drawing with a marker.
