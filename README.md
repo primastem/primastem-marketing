@@ -25,6 +25,12 @@ primastem-marketing/
 Catalog page available in 10 languages: RU (source), EN, FR, ES, IT, DE, NL, NO, SV, HE.
 Each `<lang>/catalogue.md` holds the full page text in reading order; `*italic*` and `[brackets]` are typesetter notes, everything else prints.
 
+Every language is provided in four formats:
+- `catalogue.md` - editable source text
+- `catalogue.docx` - Word, for editing or copy-paste
+- `catalogue.pdf` - print and read, opens anywhere
+- `catalogue.html` - opens in any browser
+
 Assets are shared, in `assets/`.
 
 Logo: `light.svg` on a light background, `dark.svg` on a dark one, `black/white.svg` for single-ink print.
