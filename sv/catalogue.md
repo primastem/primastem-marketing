@@ -1,45 +1,54 @@
-*Katalogsidestext, SV. Kursivt och [inom hakparentes] är anvisningar till sättaren, trycks inte. Allt annat trycks, uppifrån och ned.*
+*Sidans text till katalogen, SV. I kursiv och inom [hakparenteser]: anvisningar till formgivaren, kommer inte med i katalogen. Allt annat trycks, uppifrån och ned.*
 
-*[logotyp överst: assets/logo/light.svg på ljus bakgrund, dark.svg på mörk, black/white.svg för tryck i en färg]*
+*[logotyp överst: assets/logo/light.svg mot ljus bakgrund, dark.svg mot mörk, black/white.svg för tryck i en färg]*
 
-# Från labyrint vid 4 till spiral vid 10.
-## Programmering, logik och matematik utan skärm.
+# Från labyrinten vid 4 år till spiralen vid 10
+## Programmering, logik och matematik utan skärm
 
-*[foto, stort: assets/photos/01-spirale-tracee.jpg]*
-Ingen annan robot utan skärm kan rita den här spiralen.
+*[foto i stort: assets/photos/01-spirale-tracee.jpg]*
+Den här spiralen ritade roboten själv, efter sitt eget program.
 
-En robot ersätter flera set. De yngsta lär sig logik och tar sig genom labyrinter, de äldre går vidare till vinklar, geometri och ritande. Rutnät och övningar som gjorts för andra robotar fungerar som de är, utan att lära om. Ett köp för hela grundskolan.
+En enda robot växer tillsammans med barnet från 4 till 10 år. De yngsta lär sig logik och tar sig genom labyrinter, de äldre går vidare till vinklar, geometri och teckning.
 
-### Inget att köpa extra
-Roboten kör på vilket rutat underlag eller ark som helst: de du redan har, eller sådana du snabbt skriver ut eller ritar själv. Inga märkesspecifika tillbehör att köpa. Steget ställs in efter vilken rutstorlek som helst, 15 cm som standard. En metod ingår: 12 pass, från det första programmet till vinklar och spiraler, i andan av LOGO och Montessori. Allt är öppet i dokumentationen, går att se före beställning. Ett set passar en grupp på 2 till 4 barn: roboten, träkonsolen och kommandobrickorna i kartong. Barnen bygger programmet för hand, direkt på konsolen.
+### Ritar riktig geometri med en tuschpenna
+Sätt i en tuschpenna, så ritar roboten en spiral eller en komplex figur på papper och räknar ut vinklar och avstånd medan den kör. En vanlig rullande robot utan skärm klarar inte den precisionen. Barnet ser resultatet av sitt program direkt på arket.
+
+### En robot i stället för flera inköp
+Teckning, geometri, röst och en färdig metodik ingår i grundsatsen. Där man annars håller sig med flera robotar för olika åldrar eller köper till betalpaket till en enda, räcker här en robot till allt. Ingen extra budget för tillköp behövs.
+
+### Fungerar med det du redan har
+Roboten kör på vilka rutade kartor och mattor som helst: färdiga eller sådana som du skriver ut eller ritar själv. Du behöver inte köpa något märkesspecifikt. Steget ställs in efter vilken rutstorlek som helst, som standard 15 cm.
 *[foto: assets/photos/02-robot-sur-quadrillage.jpg, roboten på ett rutnät]*
 
-### Lära av misstagen
-Programmet stannar kvar på konsolen, framför barnet. Om roboten kör åt fel håll eller linjen blir sned hittar eleven själv det felaktiga steget, ändrar en del av programmet och försöker igen. Så lär sig barnen att rätta sina misstag i stället för att vara rädda för dem. Med pennan blir det ännu tydligare: felet syns direkt på pappret. Det stämmer med läroplanen: vinklar, figurer och en första programmering av en robot.
+### Metodik och scenarier ingår redan
+En färdig kurs leder från det första programmet via funktioner, loopar, avstånd och vinklar till aritmetik. Separat för de yngsta, 4-8 år, finns en introduktionskurs på 12 lektioner. Allt är öppet i dokumentationen och går att titta på före beställning. En sats per grupp på 2-4 barn: robot, fjärrkontroll i trä och kommandobrickor i kartong. Barnen bygger programmet för hand direkt på fjärrkontrollen.
 
-### Roboten pratar
-Den säger varje förflyttning och varje kommando högt, på 17 språk. Kör den över ett ordkort, så uttalar den ordet: ungefär 90 av dem, från «hus» till «bio». Den säger bokstäverna i alfabetet och spelar noter. Så täcker en robot inte bara matematik och kod, utan även alfabetet, de första orden och musik.
+### Barnet hittar felet själv
+Programmet ligger kvar på fjärrkontrollen, framför barnets ögon. Om roboten kör fel väg eller linjen blir sned, hittar barnet själv det felaktiga steget, ändrar en del av programmet och försöker igen. Med tuschpennan blir det ännu tydligare: felet syns genast på papperet.
 
-### 2 nivåer, 1 robot
-4-7 år (de första åren i grundskolan): förflyttningar och svängar, labyrinter, sekvenser, loopar, felsökning.
-7-10 år (de senare åren i grundskolan): exakta avstånd och vinklar, aritmetik, geometri av figurer, ritande med penna.
+### Bokstäver, ord och musik
+Roboten läser upp varje steg och varje kommando med röst, på det språk du valt. Talet finns på över 17 språk. Den kör fram till ett kort med ett ord och uttalar det. Sammanlagt cirka 90 ord: hus, skog, bio. Den nämner alfabetets bokstäver, spelar upp toner och läser upp aritmetik. Samma robot som lär ut programmering och räkning introducerar på köpet språk och musik.
 
-### Redan i bruk
-Terra Numerica, ett franskt vetenskapscentrum (Sophia Antipolis, ett projekt av CNRS, Inria och Université Côte d'Azur), använder redan PrimaSTEM i sina verkstäder.
+### Från 4 till 10 år, en enda robot
+4-7 år (lågstadiet): förflyttningar och vändningar, labyrinter, sekvenser, loopar.
+7-10 år (mellanstadiet): exakta avstånd och vinklar, aritmetik, figurernas geometri, teckning med tuschpenna.
 
-Utan skärm. CE och UKCA. Tillverkad i Frankrike (Cannes).
+### Används redan
+Terra Numerica, ett franskt centrum för vetenskaplig förmedling (Sophia Antipolis; ett projekt av CNRS, Inria och Université Côte d'Azur), använder redan PrimaSTEM i sin undervisning.
 
-Rekommenderat pris i Frankrike: 297 € HT. Ett köp täcker hela grundskolan, ungefär sex år. Det är priset för en robot i toppklass, för flera robotars arbete.
-*Slutpriset sätts av distributören.*
+Utan skärm. Tillverkad i Frankrike (Cannes), certifierad enligt CE och UKCA.
 
-Prova roboten innan du köper. Den körs direkt i webbläsaren. Öppna länken eller skanna QR-koden:
+Rekommenderat pris för Frankrike: 297 € HT. I priset ingår redan matematik, geometri, teckning, röst och metodik, utan separata tillägg. Ett enda köp räcker för alla åren från 4 till 10.
+*Det slutgiltiga priset sätts av distributören.*
+
+Prova roboten innan du köper. Den körs direkt i webbläsaren. Öppna länken eller rikta kameran mot QR-koden:
 **simulator.primastem.com**
 *[QR: assets/qr/simulateur-qr.svg]*
 
 *Med liten stil, längst ned:*
-Innehåll. Konsolen, roboten och en grunduppsättning kommandobrickor. USB-C-kabel och laddare ingår inte: vilken standard som helst duger.
-Specifikationer. Robot och konsol i trä, brickor i kartong. Robot 125 mm i diameter, 44 mm hög, 220 g. Konsol 317 x 217 x 62 mm, 680 g. Brickor 33 x 33 mm, NFC. 11 dubbla platser. Steg 15 cm som standard, justerbart till valfri storlek. Svängar från 1 till 360 grader. Bluetooth ungefär 5 m. Li-Ion-batteri, USB-C-laddning, ungefär 1,5 h användning. Ålder 4 till 10. Tillverkad i Cannes, Frankrike. CE- och UKCA-certifierad.
-Service. Vanliga pennor, utbytbart batteri. Garanti och service via distributören.
-*Referens och pris fylls i av distributören.*
+Innehåll. Fjärrkontroll, robot och en uppsättning kommandobrickor i kartong (NFC). En sats är avsedd för en grupp på 2-4 barn. USB-C-kabel och laddare ingår inte, vilka standardprodukter som helst fungerar.
+Specifikationer. Robot och fjärrkontroll i trä, brickor i kartong. Roboten är 125 mm i diameter, 44 mm hög, 220 g. Fjärrkontrollen 317 x 217 x 62 mm, 680 g. Brickorna 33 x 33 mm, NFC. 11 dubbla fack. Steg som standard 15 cm, ställbart efter vilken storlek som helst. Vändningar från 1 till 360 grader. Bluetooth cirka 5 m. Li-Ion-batteri, laddning via USB-C, cirka 1,5 timme. Ålder 4-10 år. Tillverkad i Cannes, Frankrike. Certifierad enligt CE och UKCA.
+Service. Vanliga tuschpennor fungerar, batteriet är utbytbart. Garanti och service tillhandahålls av distributören.
+*Artikelnummer och pris sätts av distributören.*
 
-*[fler foton i assets/photos: 03-kit-complet, 04-console-de-commande, 05-robot-et-console, 06-robot-vue-dessus]*
+*[ytterligare foton i assets/photos: 03-kit-complet, 04-console-de-commande, 05-robot-et-console, 06-robot-vue-dessus]*

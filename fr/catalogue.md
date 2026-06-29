@@ -1,45 +1,54 @@
-*Texte de la page catalogue, FR. En italique et entre [crochets] : indications pour le maquettiste, à ne pas imprimer. Tout le reste s'imprime, de haut en bas.*
+*Texte de la page catalogue, FR. En italique et entre [crochets] : indications pour le maquettiste, à ne pas inclure dans le catalogue. Tout le reste s'imprime, de haut en bas.*
 
-*[logo en haut : assets/logo/light.svg sur fond clair, dark.svg sur fond foncé, black/white.svg pour l'impression une couleur]*
+*[logo en haut : assets/logo/light.svg sur fond clair, dark.svg sur fond sombre, black/white.svg pour l'impression en une seule couleur]*
 
-# Du labyrinthe à 4 ans à la spirale à 10.
-## Programmation, logique et mathématiques sans écran.
+# Du labyrinthe à 4 ans à la spirale à 10 ans
+## Programmation, logique et mathématiques sans écran
 
 *[photo en grand : assets/photos/01-spirale-tracee.jpg]*
-Cette spirale, aucun robot sans écran ne sait la tracer.
+Cette spirale, le robot l'a tracée tout seul, en suivant son programme.
 
-Un seul robot en remplace plusieurs. Les plus jeunes apprennent la logique et franchissent des labyrinthes, les plus grands passent aux angles, à la géométrie et au tracé. Les quadrillages et les activités conçus pour d'autres robots fonctionnent tels quels, sans rien réapprendre. Un seul achat pour toute l'école primaire.
+Un seul robot grandit avec l'enfant de 4 à 10 ans. Les plus jeunes apprennent la logique et traversent des labyrinthes, les plus grands passent aux angles, à la géométrie et au dessin.
 
-### Rien à racheter
-Le robot roule sur n'importe quel quadrillage ou tapis : ceux que vous avez déjà sous la main, ou ceux que l'on imprime ou dessine soi-même. Aucun accessoire propriétaire à racheter. Le pas se règle à n'importe quelle taille de case, 15 cm par défaut. Une méthode est fournie : 12 séances, du premier programme jusqu'aux angles et aux spirales, dans l'esprit de LOGO et de Montessori. Tout est en ligne dans la documentation, consultable avant la commande. Un kit convient à un groupe de 2 à 4 enfants : le robot, la console en bois et les jetons de commande en carton. Les enfants composent le programme à la main, directement sur la console.
-*[photo : assets/photos/02-robot-sur-quadrillage.jpg, le robot sur un quadrillage]*
+### Il trace de la vraie géométrie au feutre
+Glissez un feutre, et le robot trace sur le papier une spirale ou une figure complexe, en calculant angles et distances au fur et à mesure. Un robot roulant classique sans écran ne reproduit pas une telle précision. L'enfant voit le résultat de son programme directement sur la feuille.
 
-### Apprendre de ses erreurs
-Le programme reste posé sur la console, sous les yeux de l'enfant. Si le robot part au mauvais endroit ou si le tracé est de travers, l'élève repère lui-même l'étape fautive, modifie une partie du programme et recommence. Les enfants apprennent ainsi à corriger leurs erreurs plutôt qu'à en avoir peur. Avec le feutre, c'est encore plus parlant : l'erreur se voit aussitôt sur la feuille. Cela répond aux programmes scolaires : angles, figures et première programmation d'un robot.
+### Un seul robot au lieu de plusieurs achats
+Le dessin, la géométrie, la voix et une méthode prête à l'emploi sont inclus dans le pack de base. Là où l'on garde habituellement plusieurs robots selon les âges ou l'on rachète des packs payants pour un même robot, ici tout tient dans un seul appareil. Pas besoin d'un second budget pour des compléments.
 
-### Le robot parle
-Il dit chaque déplacement et chaque commande à voix haute, en 17 langues. Passez-le sur une carte-mot et il la prononce : près de 90, de « maison » à « cinéma ». Il nomme les lettres de l'alphabet et joue des notes. Ainsi un seul robot couvre non seulement les maths et le code, mais aussi l'alphabet, les premiers mots et la musique.
+### Il fonctionne avec ce que vous avez déjà
+Le robot se déplace sur n'importe quelle carte ou tapis quadrillé : prêts à l'emploi, ou que vous imprimez ou dessinez vous-même. Aucun support de marque à acheter. Le pas se règle pour n'importe quelle taille de case, 15 cm par défaut.
+*[photo : assets/photos/02-robot-sur-quadrillage.jpg, le robot sur le quadrillage]*
 
-### 2 niveaux, 1 robot
-4-7 ans (petites classes du primaire) : déplacements et virages, labyrinthes, séquences, boucles, débogage.
-7-10 ans (grandes classes du primaire) : distances et angles précis, arithmétique, géométrie des figures, tracé au feutre.
+### La méthode et les scénarios sont déjà fournis
+Un parcours clé en main mène du premier programme aux fonctions, boucles, distances et angles, jusqu'à l'arithmétique. Pour les plus jeunes de 4 à 8 ans, un cours d'introduction de 12 séances est proposé à part. Tout est consultable en ligne dans la documentation, avant de commander. Un seul kit pour un groupe de 2 à 4 enfants : le robot, une télécommande en bois et des jetons de commande en carton. Les enfants assemblent le programme à la main, directement sur la télécommande.
 
-### Déjà utilisé
-Terra Numerica, centre français de médiation scientifique (Sophia Antipolis, projet du CNRS, d'Inria et de l'Université Côte d'Azur), utilise déjà PrimaSTEM dans ses ateliers.
+### L'enfant trouve son erreur lui-même
+Le programme reste sur la télécommande, sous les yeux de l'enfant. Si le robot part au mauvais endroit ou si le tracé sort de travers, l'enfant repère lui-même l'étape fausse, modifie une partie du programme et réessaie. Avec le feutre, c'est encore plus parlant : l'erreur se voit aussitôt sur le papier.
 
-Sans écran. CE et UKCA. Fabriqué en France (Cannes).
+### Lettres, mots et musique
+Le robot annonce à voix haute chaque pas et chaque commande, dans la langue de votre choix. La synthèse vocale est disponible dans plus de 17 langues. Il s'arrête sur une carte portant un mot et le prononce. Environ 90 mots en tout : maison, forêt, cinéma. Il nomme les lettres de l'alphabet, joue des notes et énonce les opérations. Le même robot qui apprend à programmer et à compter initie aussi, au passage, au langage et à la musique.
 
-Prix conseillé en France : 297 € HT. Un seul achat couvre toute l'école primaire, environ six ans. C'est le prix d'un robot haut de gamme, pour le travail de plusieurs.
+### De 4 à 10 ans, un seul robot
+4 à 7 ans (premières années de l'école primaire) : déplacements et rotations, labyrinthes, suites, boucles.
+7 à 10 ans (dernières années de l'école primaire) : distances et angles précis, arithmétique, géométrie des figures, dessin au feutre.
+
+### Déjà adopté
+Terra Numerica, centre français de médiation scientifique (Sophia Antipolis ; projet du CNRS, d'Inria et de l'Université Côte d'Azur), utilise déjà PrimaSTEM dans ses ateliers.
+
+Sans écran. Fabriqué en France (Cannes), certifications CE et UKCA.
+
+Prix conseillé pour la France : 297 € HT. Il comprend déjà les mathématiques, la géométrie, le dessin, la voix et la méthode, sans suppléments à part. Un seul achat couvre toutes les années de 4 à 10 ans.
 *Le prix final est fixé par le distributeur.*
 
-Essayez le robot avant de l'acheter. Il fonctionne directement dans le navigateur. Ouvrez le lien ou scannez le QR code :
+Essayez le robot avant de l'acheter. Il fonctionne directement dans le navigateur. Ouvrez le lien ou pointez votre caméra sur le QR code :
 **simulator.primastem.com**
 *[QR : assets/qr/simulateur-qr.svg]*
 
-*En petit, en bas :*
-Contenu. La console, le robot et un jeu de jetons de commande. Câble USB-C et chargeur non fournis : n'importe quel modèle standard convient.
-Caractéristiques. Robot et console en bois, jetons en carton. Robot 125 mm de diamètre, 44 mm de haut, 220 g. Console 317 x 217 x 62 mm, 680 g. Jetons 33 x 33 mm, NFC. 11 doubles emplacements. Pas de 15 cm par défaut, réglable à toute taille. Virages de 1 à 360 degrés. Bluetooth environ 5 m. Batterie Li-Ion, charge USB-C, environ 1,5 h d'autonomie. Âge 4 à 10 ans. Fabriqué à Cannes, France. Certifié CE et UKCA.
-Service. Feutres ordinaires, batterie remplaçable. Garantie et SAV assurés par le distributeur.
-*Référence et prix à compléter par le distributeur.*
+*En petits caractères, en bas :*
+Contenu. Une télécommande, un robot et un jeu de jetons de commande en carton (NFC). Un kit est prévu pour un groupe de 2 à 4 enfants. Le câble USB-C et le chargeur ne sont pas inclus, n'importe quels modèles standard conviennent.
+Caractéristiques. Robot et télécommande en bois, jetons en carton. Robot de 125 mm de diamètre, 44 mm de hauteur, 220 g. Télécommande 317 x 217 x 62 mm, 680 g. Jetons 33 x 33 mm, NFC. 11 emplacements doubles. Pas de 15 cm par défaut, réglable pour toute taille. Rotations de 1 à 360 degrés. Bluetooth, portée d'environ 5 m. Batterie Li-Ion, charge USB-C, environ 1,5 heure. Âge 4 à 10 ans. Fabriqué à Cannes, France. Certifications CE et UKCA.
+Service. Des feutres ordinaires conviennent, la batterie est remplaçable. La garantie et le service après-vente sont assurés par le distributeur.
+*La référence et le prix sont fixés par le distributeur.*
 
-*[autres photos dans assets/photos : 03-kit-complet, 04-console-de-commande, 05-robot-et-console, 06-robot-vue-dessus]*
+*[photos complémentaires dans assets/photos : 03-kit-complet, 04-console-de-commande, 05-robot-et-console, 06-robot-vue-dessus]*

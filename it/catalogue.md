@@ -1,45 +1,54 @@
-*Testo della pagina di catalogo, IT. In corsivo e [tra parentesi quadre]: indicazioni per l'impaginatore, non si stampano. Tutto il resto si stampa, dall'alto in basso.*
+*Testo della pagina di catalogo, IT. In corsivo e tra [parentesi]: note per l'impaginatore, non vanno nel catalogo. Tutto il resto viene stampato, dall'alto verso il basso.*
 
-*[logo in alto: assets/logo/light.svg su sfondo chiaro, dark.svg su sfondo scuro, black/white.svg per la stampa a un colore]*
+*[logo in alto: assets/logo/light.svg su sfondo chiaro, dark.svg su sfondo scuro, black/white.svg per la stampa in tinta unica]*
 
-# Dal labirinto a 4 anni alla spirale a 10.
-## Programmazione, logica e matematica senza schermo.
+# Dal labirinto a 4 anni alla spirale a 10
+## Programmazione, logica e matematica senza schermo
 
-*[foto, grande: assets/photos/01-spirale-tracee.jpg]*
-Questa spirale nessun altro robot senza schermo sa tracciarla.
+*[foto grande: assets/photos/01-spirale-tracee.jpg]*
+Questa spirale il robot l'ha tracciata da solo, seguendo il suo programma.
 
-Un solo robot sostituisce più kit. I più piccoli imparano la logica e affrontano i labirinti, i più grandi passano agli angoli, alla geometria e al disegno. Le griglie e le attività pensate per altri robot funzionano così come sono, senza dover reimparare nulla. Un solo acquisto per tutta la scuola primaria.
+Un solo robot cresce insieme al bambino dai 4 ai 10 anni. I più piccoli imparano la logica e attraversano i labirinti, i più grandi passano agli angoli, alla geometria e al disegno.
 
-### Niente da comprare in più
-Il robot si muove su qualsiasi tappeto o foglio a quadretti: quelli che avete già, o quelli che potete stampare o disegnare voi stessi in poco tempo. Nessun accessorio proprietario da comprare. Il passo si regola a qualsiasi dimensione della casella, 15 cm di default. È incluso un metodo: 12 lezioni, dal primo programma agli angoli e alle spirali, nello spirito di LOGO e Montessori. Tutto è aperto nella documentazione, consultabile prima dell'ordine. Un kit è adatto a un gruppo di 2 a 4 bambini: il robot, la consolle in legno e le tessere di comando in cartone. I bambini costruiscono il programma a mano, direttamente sulla consolle.
-*[foto: assets/photos/02-robot-sur-quadrillage.jpg, il robot su una griglia]*
+### Disegna con il pennarello una vera geometria
+Inserisci un pennarello e il robot traccerà sul foglio una spirale o una figura complessa, calcolando angoli e distanze mentre si muove. Un normale robot che si sposta senza schermo non raggiunge una precisione simile. Il bambino vede il risultato del suo programma direttamente sul foglio.
 
-### Imparare dagli errori
-Il programma resta sulla consolle, davanti agli occhi del bambino. Se il robot va dove non deve o la linea viene storta, l'alunno trova da solo il passo sbagliato, cambia una parte del programma e riprova. Così i bambini imparano a correggere gli errori invece di temerli. Con il pennarello è ancora più evidente: l'errore si vede subito sul foglio. Risponde al programma scolastico: angoli, figure e una prima programmazione di un robot.
+### Un solo robot al posto di più acquisti
+Disegno, geometria, voce e metodologia pronta sono già inclusi nel kit base. Dove di solito servono più robot per età diverse o si comprano set a pagamento da aggiungere a uno stesso robot, qui tutto è coperto da un unico robot. Non serve un secondo budget per gli acquisti aggiuntivi.
 
-### Il robot parla
-Dice ad alta voce ogni movimento e ogni comando, in 17 lingue. Passa su una carta-parola e la pronuncia: circa 90, da «casa» a «cinema». Nomina le lettere dell'alfabeto e suona le note. Così un solo robot copre non solo la matematica e il codice, ma anche l'alfabeto, le prime parole e la musica.
+### Funziona con quello che hai già
+Il robot si muove su qualsiasi mappa o tappeto a quadretti: pronti all'uso oppure stampati o disegnati da te. Non c'è bisogno di comprare nulla di specifico. Il passo si regola su qualsiasi dimensione della casella, di default 15 cm.
+*[foto: assets/photos/02-robot-sur-quadrillage.jpg, robot sulla griglia]*
 
-### 2 livelli, 1 robot
-4-7 anni (prime classi della primaria): spostamenti e svolte, labirinti, sequenze, cicli, ricerca degli errori.
-7-10 anni (ultime classi della primaria): distanze e angoli precisi, aritmetica, geometria delle figure, disegno con il pennarello.
+### Metodologia e attività già incluse
+Il percorso pronto all'uso accompagna dal primo programma attraverso funzioni, cicli, distanze e angoli fino all'aritmetica. Per i più piccoli, dai 4 agli 8 anni, c'è un corso introduttivo a parte di 12 lezioni. Tutto è disponibile nella documentazione e si può consultare prima di ordinare. Un solo kit per un gruppo di 2-4 bambini: il robot, una console di legno e le tessere comando di cartone. I bambini compongono il programma con le proprie mani direttamente sulla console.
+
+### L'errore lo trova il bambino stesso
+Il programma resta sulla console, sotto gli occhi del bambino. Se il robot va nella direzione sbagliata o la linea esce storta, il bambino individua da solo il passo errato, modifica una parte del programma e riprova. Con il pennarello è ancora più evidente: l'errore si vede subito sul foglio.
+
+### Lettere, parole e musica
+Il robot enuncia a voce ogni passo e ogni comando, nella lingua che hai scelto. La voce è disponibile in oltre 17 lingue. Sale su una carta con una parola e la pronuncia. In tutto circa 90 parole: casa, bosco, cinema. Nomina le lettere dell'alfabeto, riproduce le note ed enuncia l'aritmetica. Lo stesso robot che insegna a programmare e a contare, intanto fa scoprire il linguaggio e la musica.
+
+### Dai 4 ai 10 anni, un solo robot
+4-7 anni (prime classi della scuola primaria): spostamenti e rotazioni, labirinti, sequenze, cicli.
+7-10 anni (ultime classi della scuola primaria): distanze e angoli precisi, aritmetica, geometria delle figure, disegno con il pennarello.
 
 ### Già in uso
-Terra Numerica, un centro scientifico francese (Sophia Antipolis, un progetto di CNRS, Inria e dell'Université Côte d'Azur), usa già PrimaSTEM nei suoi laboratori.
+Terra Numerica, il centro francese di mediazione scientifica (Sophia Antipolis; progetto di CNRS, Inria e Université Côte d'Azur), usa già PrimaSTEM nelle sue attività.
 
-Senza schermo. CE e UKCA. Fabbricato in Francia (Cannes).
+Senza schermo. Realizzato in Francia (Cannes), certificazioni CE e UKCA.
 
-Prezzo consigliato in Francia: 297 € HT. Un solo acquisto copre tutta la scuola primaria, circa sei anni. È il prezzo di un robot di fascia alta, per il lavoro di diversi.
-*Il prezzo finale è stabilito dal distributore.*
+Prezzo consigliato per la Francia: 297 € HT. Comprende già matematica, geometria, disegno, voce e metodologia, senza costi aggiuntivi. Un solo acquisto basta per tutti gli anni dai 4 ai 10.
+*Il prezzo finale viene stabilito dal distributore.*
 
-Provate il robot prima di acquistarlo. Funziona direttamente nel browser. Aprite il link o inquadrate il codice QR:
+Prova il robot prima di acquistarlo. Funziona direttamente nel browser. Apri il link o inquadra il QR code con la fotocamera:
 **simulator.primastem.com**
 *[QR: assets/qr/simulateur-qr.svg]*
 
-*In piccolo, in basso:*
-Contenuto. La consolle, il robot e un set base di tessere di comando. Cavo USB-C e caricabatterie non inclusi: ne va bene uno standard qualsiasi.
-Caratteristiche. Robot e consolle in legno, tessere in cartone. Robot 125 mm di diametro, 44 mm di altezza, 220 g. Consolle 317 x 217 x 62 mm, 680 g. Tessere 33 x 33 mm, NFC. 11 slot doppi. Passo 15 cm di default, regolabile a qualsiasi dimensione. Svolte da 1 a 360 gradi. Bluetooth circa 5 m. Batteria Li-Ion, ricarica USB-C, circa 1,5 h di utilizzo. Età 4 a 10. Fabbricato a Cannes, Francia. Certificato CE e UKCA.
-Assistenza. Pennarelli comuni, batteria sostituibile. Garanzia e assistenza tramite il distributore.
-*Codice e prezzo da completare a cura del distributore.*
+*In caratteri piccoli, in basso:*
+Composizione. La console, il robot e un set di tessere comando di cartone (NFC). Un kit è pensato per un gruppo di 2-4 bambini. Il cavo USB-C e il caricabatterie non sono inclusi, vanno bene quelli standard.
+Caratteristiche. Robot e console in legno, tessere in cartone. Robot di 125 mm di diametro, 44 mm di altezza, 220 g. Console 317 x 217 x 62 mm, 680 g. Tessere 33 x 33 mm, NFC. 11 slot doppi. Passo di default 15 cm, regolabile su qualsiasi dimensione. Rotazioni da 1 a 360 gradi. Bluetooth circa 5 m. Batteria Li-Ion, ricarica USB-C, circa 1,5 ore. Età 4-10 anni. Realizzato a Cannes, Francia. Certificazioni CE e UKCA.
+Assistenza. Vanno bene i normali pennarelli, la batteria è sostituibile. Garanzia e assistenza sono fornite dal distributore.
+*Codice articolo e prezzo vengono stabiliti dal distributore.*
 
-*[altre foto in assets/photos: 03-kit-complet, 04-console-de-commande, 05-robot-et-console, 06-robot-vue-dessus]*
+*[foto aggiuntive in assets/photos: 03-kit-complet, 04-console-de-commande, 05-robot-et-console, 06-robot-vue-dessus]*

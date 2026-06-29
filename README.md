@@ -10,9 +10,9 @@ primastem-marketing/
     photos/   product photos (6 jpg)
     qr/       simulator QR code (svg for print, png fallback)
     logo/     logo: light/dark (color) + black/white (single ink)
-  fr/  catalogue.md   FR (base / source)
-  ru/  catalogue.md   RU
+  ru/  catalogue.md   RU (source)
   en/  catalogue.md   EN
+  fr/  catalogue.md   FR
   de/  catalogue.md   DE
   es/  catalogue.md   ES
   it/  catalogue.md   IT
@@ -22,7 +22,7 @@ primastem-marketing/
   he/  catalogue.md   HE (right to left)
 ```
 
-Catalog page available in 10 languages: FR (source), EN, ES, IT, DE, NL, NO, SV, RU, HE.
+Catalog page available in 10 languages: RU (source), EN, FR, ES, IT, DE, NL, NO, SV, HE.
 Each `<lang>/catalogue.md` holds the full page text in reading order; `*italic*` and `[brackets]` are typesetter notes, everything else prints.
 
 Assets are shared, in `assets/`.

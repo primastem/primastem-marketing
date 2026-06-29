@@ -1,45 +1,54 @@
-*Cataloguspaginatekst, NL. Cursief en [tussen haken] zijn aanwijzingen voor de opmaker, worden niet gedrukt. Al het andere wordt gedrukt, van boven naar beneden.*
+*Tekst van de cataloguspagina, NL. Cursief en in [haakjes]: aanwijzingen voor de opmaker, komen niet in de catalogus. Al het overige wordt afgedrukt, van boven naar beneden.*
 
 *[logo bovenaan: assets/logo/light.svg op een lichte achtergrond, dark.svg op een donkere, black/white.svg voor druk in één kleur]*
 
-# Van een doolhof op 4 tot een spiraal op 10.
-## Programmeren, logica en wiskunde zonder scherm.
+# Van een doolhof op 4 jaar tot een spiraal op 10
+## Programmeren, logica en wiskunde zonder scherm
 
-*[foto, groot: assets/photos/01-spirale-tracee.jpg]*
-Geen enkele andere robot zonder scherm tekent deze spiraal.
+*[foto groot: assets/photos/01-spirale-tracee.jpg]*
+Deze spiraal heeft de robot zelf getekend, volgens zijn eigen programma.
 
-Eén robot vervangt meerdere sets. De jongsten leren logica en lopen doolhoven, de ouderen gaan over op hoeken, meetkunde en tekenen. Rasters en materialen voor andere robots werken zoals ze zijn, zonder iets opnieuw te leren. Eén aankoop voor de hele basisschool.
+Eén robot groeit mee met het kind van 4 tot 10 jaar. De jongsten leren logica en lopen doolhoven door, de ouderen stappen over op hoeken, meetkunde en tekenen.
 
-### Niets bij te kopen
-De robot rijdt op elke geruite mat of vel: die u al hebt, of die u snel zelf afdrukt of tekent. Geen merkgebonden accessoires nodig. De stap past zich aan elke vakgrootte aan, standaard 15 cm. Een methode is inbegrepen: 12 lessen, van het eerste programma tot hoeken en spiralen, in de geest van LOGO en Montessori. Alles staat open in de documentatie, in te zien vóór de bestelling. Eén set is geschikt voor een groep van 2 tot 4 kinderen: de robot, de houten console en de kartonnen commandokaartjes. Kinderen bouwen het programma met de hand, direct op de console.
-*[foto: assets/photos/02-robot-sur-quadrillage.jpg, de robot op een raster]*
+### Tekent echte meetkunde met een stift
+Steek er een stift in en de robot tekent op papier een spiraal of een ingewikkelde figuur, terwijl hij onderweg hoeken en afstanden berekent. Een gewone rijdende robot zonder scherm haalt zo'n precisie niet. Het kind ziet het resultaat van zijn programma rechtstreeks op het blad.
 
-### Leren van fouten
-Het programma blijft op de console, voor de ogen van het kind. Gaat de robot de verkeerde kant op of wordt de lijn scheef, dan vindt de leerling zelf de foute stap, wijzigt een deel van het programma en probeert opnieuw. Kinderen leren zo hun fouten te verbeteren in plaats van ze te vrezen. Met de stift wordt het nog duidelijker: de fout is meteen op papier te zien. Dit sluit aan op het lesprogramma: hoeken, vormen en een eerste kennismaking met robotprogrammeren.
+### Eén robot in plaats van meerdere aankopen
+Tekenen, meetkunde, spraak en een kant-en-klare methodiek zitten in de basisset. Waar je normaal meerdere robots voor verschillende leeftijden aanhoudt of betaalde sets bijkoopt voor één robot, dekt hier één robot alles. Een tweede budget voor bijaankopen heb je niet nodig.
 
-### De robot praat
-Hij zegt elke beweging en elk commando hardop, in 17 talen. Rijd hem over een woordkaart en hij spreekt het woord uit: zo'n 90 stuks, van «huis» tot «bioscoop». Hij benoemt de letters van het alfabet en speelt noten. Zo dekt één robot niet alleen wiskunde en code, maar ook het alfabet, eerste woorden en muziek.
+### Werkt met wat je al hebt
+De robot rijdt over elke geruite kaart of mat: kant-en-klaar of een die je zelf afdrukt of tekent. Iets van het merk kopen hoeft niet. De stap is in te stellen op elke vakgrootte, standaard 15 cm.
+*[foto: assets/photos/02-robot-sur-quadrillage.jpg, robot op een raster]*
 
-### 2 niveaus, 1 robot
-4-7 jaar (onderbouw basisschool): bewegingen en bochten, doolhoven, reeksen, lussen, fouten zoeken.
-7-10 jaar (bovenbouw basisschool): precieze afstanden en hoeken, rekenen, meetkunde van vormen, tekenen met een stift.
+### Methodiek en scenario's zitten er al bij
+De kant-en-klare cursus leidt van het eerste programma via functies, lussen, afstanden en hoeken naar rekenen. Apart voor de jongsten van 4-8 jaar is er een inleidende cursus van 12 lessen. Alles staat open in de documentatie, je kunt het bekijken voordat je bestelt. Eén set voor een groepje van 2-4 kinderen: een robot, een houten bedieningspaneel en kartonnen commandofiches. Het programma stellen de kinderen met de hand samen, gewoon op het paneel.
+
+### Het kind vindt de fout zelf
+Het programma blijft op het paneel staan, voor de ogen van het kind. Als de robot de verkeerde kant op rijdt of de lijn scheef uitvalt, vindt het kind zelf de foute stap, past een deel van het programma aan en probeert opnieuw. Met een stift is het nog duidelijker: de fout zie je meteen op papier.
+
+### Letters, woorden en muziek
+De robot spreekt elke stap en elk commando hardop uit, in de taal die jij kiest. De spraak is in meer dan 17 talen beschikbaar. Hij rijdt op een kaartje met een woord en zegt het. In totaal zo'n 90 woorden: huis, bos, bioscoop. Hij noemt de letters van het alfabet, speelt noten en spreekt rekensommen uit. Dezelfde robot die leert programmeren en rekenen, maakt onderweg kennis met taal en muziek.
+
+### Van 4 tot 10 jaar, één robot
+4-7 jaar (onderbouw van de basisschool): verplaatsingen en draaien, doolhoven, reeksen, lussen.
+7-10 jaar (bovenbouw van de basisschool): precieze afstanden en hoeken, rekenen, meetkunde van figuren, tekenen met een stift.
 
 ### Al in gebruik
-Terra Numerica, een Frans wetenschapscentrum (Sophia Antipolis, een project van CNRS, Inria en de Université Côte d'Azur), gebruikt PrimaSTEM al in zijn workshops.
+Terra Numerica, het Franse centrum voor wetenschappelijke mediatie (Sophia Antipolis; een project van CNRS, Inria en Université Côte d'Azur), gebruikt PrimaSTEM al in zijn lessen.
 
-Zonder scherm. CE en UKCA. Gemaakt in Frankrijk (Cannes).
+Zonder scherm. Gemaakt in Frankrijk (Cannes), certificaten CE en UKCA.
 
-Adviesprijs in Frankrijk: 297 € HT. Eén aankoop dekt de hele basisschool, ongeveer zes jaar. Het is de prijs van een hoogwaardige robot, voor het werk van meerdere.
+Aanbevolen prijs voor Frankrijk: 297 € HT. Daar zitten wiskunde, meetkunde, tekenen, spraak en methodiek al bij, zonder aparte bijbetalingen. Eén aankoop volstaat voor alle jaren van 4 tot 10.
 *De uiteindelijke prijs wordt door de distributeur bepaald.*
 
-Probeer de robot vóór aankoop. Hij draait direct in de browser. Open de link of scan de QR-code:
+Probeer de robot uit voordat je koopt. Hij werkt rechtstreeks in de browser. Open de link of richt je camera op de QR-code:
 **simulator.primastem.com**
 *[QR: assets/qr/simulateur-qr.svg]*
 
-*Klein gedrukt, onderaan:*
-Inhoud. De console, de robot en een basisset commandokaartjes. USB-C-kabel en oplader niet inbegrepen: elke standaard voldoet.
-Specificaties. Robot en console van hout, kartonnen kaartjes. Robot 125 mm diameter, 44 mm hoog, 220 g. Console 317 x 217 x 62 mm, 680 g. Kaartjes 33 x 33 mm, NFC. 11 dubbele sleuven. Stap standaard 15 cm, instelbaar op elke maat. Bochten van 1 tot 360 graden. Bluetooth ongeveer 5 m. Li-Ion-accu, USB-C-lading, ongeveer 1,5 u gebruik. Leeftijd 4 tot 10. Gemaakt in Cannes, Frankrijk. CE- en UKCA-gecertificeerd.
-Service. Gewone stiften, vervangbare accu. Garantie en service via de distributeur.
-*Artikelnummer en prijs aan te vullen door de distributeur.*
+*In klein lettertype, onderaan:*
+Inhoud. Een bedieningspaneel, een robot en een set kartonnen commandofiches (NFC). Eén set is bedoeld voor een groepje van 2-4 kinderen. Een USB-C-kabel en oplader zitten er niet bij, elke standaard versie volstaat.
+Specificaties. Robot en paneel van hout, fiches van karton. Robot 125 mm in diameter, 44 mm hoog, 220 g. Paneel 317 x 217 x 62 mm, 680 g. Fiches 33 x 33 mm, NFC. 11 dubbele sleuven. Stap standaard 15 cm, in te stellen op elke grootte. Draaien van 1 tot 360 graden. Bluetooth ongeveer 5 m. Li-Ion-accu, opladen via USB-C, ongeveer 1,5 uur. Leeftijd 4-10 jaar. Gemaakt in Cannes, Frankrijk. Certificaten CE en UKCA.
+Service. Gewone stiften zijn geschikt, de accu is vervangbaar. Garantie en service worden door de distributeur verzorgd.
+*Artikelnummer en prijs worden door de distributeur bepaald.*
 
-*[meer foto's in assets/photos: 03-kit-complet, 04-console-de-commande, 05-robot-et-console, 06-robot-vue-dessus]*
+*[extra foto's in assets/photos: 03-kit-complet, 04-console-de-commande, 05-robot-et-console, 06-robot-vue-dessus]*
