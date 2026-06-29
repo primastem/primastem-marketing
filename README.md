@@ -35,3 +35,6 @@ Assets are shared, in `assets/`.
 
 Logo: `light.svg` on a light background, `dark.svg` on a dark one, `black/white.svg` for single-ink print.
 Brand color: green `#5AA02C`.
+
+---
+_Last updated: 2026-06-29 20:15 +0200._
