@@ -23,11 +23,12 @@ primastem-marketing/
   nl/  catalogue.md   NL
   no/  catalogue.md   NO
   sv/  catalogue.md   SV
+  pt-br/ catalogue.md  PT-BR (Brazilian Portuguese)
   he/  catalogue.md   HE (right to left)
   ar/  catalogue.md   AR (right to left)
 ```
 
-Catalog page available in 11 languages: RU (source), EN, FR, ES, IT, DE, NL, NO, SV, HE, AR.
+Catalog page available in 12 languages: RU (source), EN, FR, ES, IT, DE, NL, NO, SV, PT-BR, HE, AR.
 Each `<lang>/catalogue.md` holds the full page text in reading order; `*italic*` and `[brackets]` are typesetter notes, everything else prints.
 
 Every language is provided in four formats:
