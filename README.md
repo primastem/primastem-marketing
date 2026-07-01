@@ -41,4 +41,4 @@ Logo: `light.svg` on a light background, `dark.svg` on a dark one, `black/white.
 Brand color: green `#5AA02C`.
 
 ---
-_Last updated: 2026-06-29 18:50 UTC._
+_Last updated: 2026-07-01 07:37 UTC._
