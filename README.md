@@ -1,6 +1,10 @@
 # primastem-marketing
 
-PrimaSTEM marketing materials, ready to hand to distributors.
+[PrimaSTEM](https://primastem.com) marketing materials, ready to hand to distributors.
+
+[![Download all materials](https://img.shields.io/badge/Download-all%20materials%20(.zip)-5AA02C?style=for-the-badge)](https://github.com/primastem/primastem-marketing/archive/refs/heads/main.zip)
+
+Download the whole kit as a single archive: [main.zip](https://github.com/primastem/primastem-marketing/archive/refs/heads/main.zip). More about the product at [primastem.com](https://primastem.com).
 
 ## What's where
 
