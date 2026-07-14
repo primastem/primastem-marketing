@@ -13,7 +13,7 @@ primastem-marketing/
   assets/
     photos/   product photos (6 jpg)
     qr/       simulator QR code (svg for print, png fallback)
-    logo/     logo: light/dark (color) + black/white (single ink)
+    logo/     logo: light/dark (color) + black/white (single ink), each as SVG and PNG
   ru/  catalogue.md   RU (source)
   en/  catalogue.md   EN
   fr/  catalogue.md   FR
@@ -39,7 +39,8 @@ Every language is provided in four formats:
 
 Assets are shared, in `assets/`.
 
-Logo: `light.svg` on a light background, `dark.svg` on a dark one, `black/white.svg` for single-ink print.
+Logo: `light` on a light background, `dark` on a dark one, `black`/`white` for single-ink print.
+Each comes as SVG (vector, best for print) and PNG (3000 px wide, 300 dpi, transparent background).
 Brand color: green `#5AA02C`.
 
 ---
