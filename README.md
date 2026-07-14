@@ -44,4 +44,4 @@ Each comes as SVG (vector, best for print) and PNG (3000 px wide, 300 dpi, trans
 Brand color: green `#5AA02C`.
 
 ---
-_Last updated: 2026-07-14 10:02 UTC._
+_Last updated: 2026-07-14 10:05 UTC._
