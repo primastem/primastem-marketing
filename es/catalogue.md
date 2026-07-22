@@ -8,13 +8,13 @@
 *[foto en grande: assets/photos/01-spirale-tracee.jpg]*
 Esta espiral la trazó el propio robot, siguiendo su programa.
 
-Un mismo robot crece con el niño de los 4 a los 10 años. Los más pequeños aprenden lógica y resuelven laberintos; los mayores avanzan hacia los ángulos, la geometría y el dibujo.
+Un mismo robot crece con el niño de los 4 a los 10 años y más allá. Los más pequeños aprenden lógica y resuelven laberintos; los mayores avanzan hacia los ángulos, la geometría y el dibujo.
 
 ### Traza geometría de verdad con un rotulador
 Coloque un rotulador y el robot trazará sobre el papel una espiral o una figura compleja, calculando ángulos y distancias sobre la marcha. Un robot rodante normal sin pantalla no logra esa precisión. El niño ve el resultado de su programa directamente sobre la hoja.
 
 ### Un solo robot en lugar de varias compras
-Dibujo, geometría, voz y una metodología lista para usar vienen en el equipo básico. Donde normalmente hacen falta varios robots para distintas edades o se compran sets de pago adicionales para uno solo, aquí todo lo cubre un único robot. No hace falta un segundo presupuesto para complementos.
+Programación, dibujo, geometría, voz y una metodología lista para usar vienen en el equipo básico. Donde normalmente hacen falta varios robots para distintas edades o se compran sets de pago adicionales para uno solo, aquí todo lo cubre un único robot. No hay nada por lo que pagar aparte.
 
 ### Funciona con lo que ya tiene
 El robot circula sobre cualquier mapa o alfombra cuadriculada: ya hechos o los que usted imprima o dibuje. No hace falta comprar nada de la marca. El paso se ajusta a cualquier tamaño de cuadrícula, por defecto 15 cm.
@@ -29,17 +29,17 @@ El programa permanece en el mando, a la vista del niño. Si el robot toma el cam
 ### Letras, palabras y música
 El robot pronuncia en voz alta cada paso y cada comando, en el idioma que usted elija. La locución está disponible en más de 17 idiomas. Sube a una tarjeta con una palabra y la pronuncia. En total, unas 90 palabras: casa, bosque, cine. Nombra las letras del alfabeto, reproduce notas y pronuncia operaciones aritméticas. El mismo robot que enseña a programar y a contar acerca, de paso, al habla y a la música.
 
-### De los 4 a los 10 años, un solo robot
+### De los 4 a los 10+, un solo robot
 4-7 años (primeros cursos de primaria): desplazamientos y giros, laberintos, secuencias, bucles.
 7-10 años (últimos cursos de primaria): distancias y ángulos precisos, aritmética, geometría de figuras, dibujo con rotulador.
+10+: el mismo robot se programa desde Scratch.
 
 ### Ya lo utilizan
 Terra Numerica, centro francés de mediación científica (Sophia Antipolis; proyecto de CNRS, Inria y Université Côte d'Azur), ya utiliza PrimaSTEM en sus sesiones.
 
 Sin pantalla. Fabricado en Francia (Cannes), certificados CE y UKCA.
 
-Precio recomendado para Francia: 297 € HT. Ya incluye matemáticas, geometría, dibujo, voz y metodología, sin pagos adicionales. Una sola compra alcanza para todos los años, de los 4 a los 10.
-*El precio final lo fija el distribuidor.*
+*El precio lo fija el distribuidor.*
 
 Pruebe el robot antes de comprarlo. Funciona directamente en el navegador. Abra el enlace o apunte la cámara al código QR:
 **simulator.primastem.com**

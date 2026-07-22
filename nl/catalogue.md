@@ -8,13 +8,13 @@
 *[foto groot: assets/photos/01-spirale-tracee.jpg]*
 Deze spiraal heeft de robot zelf getekend, volgens zijn eigen programma.
 
-Eén robot groeit mee met het kind van 4 tot 10 jaar. De jongsten leren logica en lopen doolhoven door, de ouderen stappen over op hoeken, meetkunde en tekenen.
+Eén robot groeit mee met het kind van 4 tot 10 jaar en daarna. De jongsten leren logica en lopen doolhoven door, de ouderen stappen over op hoeken, meetkunde en tekenen.
 
 ### Tekent echte meetkunde met een stift
 Steek er een stift in en de robot tekent op papier een spiraal of een ingewikkelde figuur, terwijl hij onderweg hoeken en afstanden berekent. Een gewone rijdende robot zonder scherm haalt zo'n precisie niet. Het kind ziet het resultaat van zijn programma rechtstreeks op het blad.
 
 ### Eén robot in plaats van meerdere aankopen
-Tekenen, meetkunde, spraak en een kant-en-klare methodiek zitten in de basisset. Waar je normaal meerdere robots voor verschillende leeftijden aanhoudt of betaalde sets bijkoopt voor één robot, dekt hier één robot alles. Een tweede budget voor bijaankopen heb je niet nodig.
+Programmeren, tekenen, meetkunde, spraak en een kant-en-klare methodiek zitten in de basisset. Waar je normaal meerdere robots voor verschillende leeftijden aanhoudt of betaalde sets bijkoopt voor één robot, dekt hier één robot alles. Er valt niets bij te betalen.
 
 ### Werkt met wat je al hebt
 De robot rijdt over elke geruite kaart of mat: kant-en-klaar of een die je zelf afdrukt of tekent. Iets van het merk kopen hoeft niet. De stap is in te stellen op elke vakgrootte, standaard 15 cm.
@@ -29,17 +29,17 @@ Het programma blijft op het paneel staan, voor de ogen van het kind. Als de robo
 ### Letters, woorden en muziek
 De robot spreekt elke stap en elk commando hardop uit, in de taal die jij kiest. De spraak is in meer dan 17 talen beschikbaar. Hij rijdt op een kaartje met een woord en zegt het. In totaal zo'n 90 woorden: huis, bos, bioscoop. Hij noemt de letters van het alfabet, speelt noten en spreekt rekensommen uit. Dezelfde robot die leert programmeren en rekenen, maakt onderweg kennis met taal en muziek.
 
-### Van 4 tot 10 jaar, één robot
+### Van 4 tot 10+, één robot
 4-7 jaar (onderbouw van de basisschool): verplaatsingen en draaien, doolhoven, reeksen, lussen.
 7-10 jaar (bovenbouw van de basisschool): precieze afstanden en hoeken, rekenen, meetkunde van figuren, tekenen met een stift.
+10+: dezelfde robot wordt geprogrammeerd vanuit Scratch.
 
 ### Al in gebruik
 Terra Numerica, het Franse centrum voor wetenschappelijke mediatie (Sophia Antipolis; een project van CNRS, Inria en Université Côte d'Azur), gebruikt PrimaSTEM al in zijn lessen.
 
 Zonder scherm. Gemaakt in Frankrijk (Cannes), certificaten CE en UKCA.
 
-Aanbevolen prijs voor Frankrijk: 297 € HT. Daar zitten wiskunde, meetkunde, tekenen, spraak en methodiek al bij, zonder aparte bijbetalingen. Eén aankoop volstaat voor alle jaren van 4 tot 10.
-*De uiteindelijke prijs wordt door de distributeur bepaald.*
+*De prijs wordt door de distributeur bepaald.*
 
 Probeer de robot uit voordat je koopt. Hij werkt rechtstreeks in de browser. Open de link of richt je camera op de QR-code:
 **simulator.primastem.com**

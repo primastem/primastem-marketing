@@ -8,13 +8,13 @@
 *[foto grande: assets/photos/01-spirale-tracee.jpg]*
 Questa spirale il robot l'ha tracciata da solo, seguendo il suo programma.
 
-Un solo robot cresce insieme al bambino dai 4 ai 10 anni. I più piccoli imparano la logica e attraversano i labirinti, i più grandi passano agli angoli, alla geometria e al disegno.
+Un solo robot cresce insieme al bambino dai 4 ai 10 anni e oltre. I più piccoli imparano la logica e attraversano i labirinti, i più grandi passano agli angoli, alla geometria e al disegno.
 
 ### Disegna con il pennarello una vera geometria
 Inserisci un pennarello e il robot traccerà sul foglio una spirale o una figura complessa, calcolando angoli e distanze mentre si muove. Un normale robot che si sposta senza schermo non raggiunge una precisione simile. Il bambino vede il risultato del suo programma direttamente sul foglio.
 
 ### Un solo robot al posto di più acquisti
-Disegno, geometria, voce e metodologia pronta sono già inclusi nel kit base. Dove di solito servono più robot per età diverse o si comprano set a pagamento da aggiungere a uno stesso robot, qui tutto è coperto da un unico robot. Non serve un secondo budget per gli acquisti aggiuntivi.
+Programmazione, disegno, geometria, voce e metodologia pronta sono già inclusi nel kit base. Dove di solito servono più robot per età diverse o si comprano set a pagamento da aggiungere a uno stesso robot, qui tutto è coperto da un unico robot. Non c'è nulla da pagare a parte.
 
 ### Funziona con quello che hai già
 Il robot si muove su qualsiasi mappa o tappeto a quadretti: pronti all'uso oppure stampati o disegnati da te. Non c'è bisogno di comprare nulla di specifico. Il passo si regola su qualsiasi dimensione della casella, di default 15 cm.
@@ -29,17 +29,17 @@ Il programma resta sulla console, sotto gli occhi del bambino. Se il robot va ne
 ### Lettere, parole e musica
 Il robot enuncia a voce ogni passo e ogni comando, nella lingua che hai scelto. La voce è disponibile in oltre 17 lingue. Sale su una carta con una parola e la pronuncia. In tutto circa 90 parole: casa, bosco, cinema. Nomina le lettere dell'alfabeto, riproduce le note ed enuncia l'aritmetica. Lo stesso robot che insegna a programmare e a contare, intanto fa scoprire il linguaggio e la musica.
 
-### Dai 4 ai 10 anni, un solo robot
+### Dai 4 ai 10+, un solo robot
 4-7 anni (prime classi della scuola primaria): spostamenti e rotazioni, labirinti, sequenze, cicli.
 7-10 anni (ultime classi della scuola primaria): distanze e angoli precisi, aritmetica, geometria delle figure, disegno con il pennarello.
+10+: lo stesso robot si programma da Scratch.
 
 ### Già in uso
 Terra Numerica, il centro francese di mediazione scientifica (Sophia Antipolis; progetto di CNRS, Inria e Université Côte d'Azur), usa già PrimaSTEM nelle sue attività.
 
 Senza schermo. Realizzato in Francia (Cannes), certificazioni CE e UKCA.
 
-Prezzo consigliato per la Francia: 297 € HT. Comprende già matematica, geometria, disegno, voce e metodologia, senza costi aggiuntivi. Un solo acquisto basta per tutti gli anni dai 4 ai 10.
-*Il prezzo finale viene stabilito dal distributore.*
+*Il prezzo viene stabilito dal distributore.*
 
 Prova il robot prima di acquistarlo. Funziona direttamente nel browser. Apri il link o inquadra il QR code con la fotocamera:
 **simulator.primastem.com**

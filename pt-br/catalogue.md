@@ -8,13 +8,13 @@
 *[foto grande: assets/photos/01-spirale-tracee.jpg]*
 Esta espiral o robô traçou sozinho, seguindo o seu próprio programa.
 
-Um único robô cresce junto com a criança dos 4 aos 10 anos. Os menores dominam a lógica e percorrem labirintos, os maiores avançam para ângulos, geometria e desenho.
+Um único robô cresce junto com a criança dos 4 aos 10 anos e além. Os menores dominam a lógica e percorrem labirintos, os maiores avançam para ângulos, geometria e desenho.
 
 ### Traça geometria de verdade com caneta hidrográfica
 Coloque uma caneta hidrográfica e o robô vai traçar no papel uma espiral ou uma figura complexa, calculando ângulos e distâncias em tempo real. Um robô comum que só anda, sem tela, não repete essa precisão. A criança vê o resultado do seu programa direto na folha.
 
 ### Um só robô no lugar de várias compras
-Desenho, geometria, voz e uma metodologia pronta já vêm no kit básico. Onde normalmente se precisa de vários robôs para idades diferentes ou se compram kits pagos à parte, aqui um único robô dá conta de tudo. Não é preciso um segundo orçamento para complementos.
+Programação, desenho, geometria, voz e uma metodologia pronta já vêm no kit básico. Onde normalmente se precisa de vários robôs para idades diferentes ou se compram kits pagos à parte, aqui um único robô dá conta de tudo. Não há nada a pagar à parte.
 
 ### Funciona com o que você já tem
 O robô anda sobre qualquer mapa ou tapete quadriculado: prontos, ou aqueles que você mesmo imprime ou desenha. Não precisa comprar nada da marca. O passo se ajusta a qualquer tamanho de quadrado, sendo 15 cm o padrão.
@@ -29,17 +29,17 @@ O programa fica no controle, diante dos olhos da criança. Se o robô foi para o
 ### Letras, palavras e música
 O robô narra em voz alta cada passo e cada comando, no idioma que você escolher. A locução está disponível em mais de 17 idiomas. Ele sobe em um cartão com uma palavra e a pronuncia. São cerca de 90 palavras: casa, floresta, cinema. Diz o nome das letras do alfabeto, toca notas musicais e narra operações de aritmética. O mesmo robô que ensina a programar e a contar apresenta, de quebra, a fala e a música.
 
-### Dos 4 aos 10 anos, um único robô
+### Dos 4 aos 10+, um único robô
 4-7 anos (séries iniciais do ensino fundamental): deslocamentos e giros, labirintos, sequências, laços.
 7-10 anos (séries finais do ensino fundamental): distâncias e ângulos precisos, aritmética, geometria de figuras, desenho com caneta hidrográfica.
+10+: o mesmo robô é programado a partir do Scratch.
 
 ### Já usam
 A Terra Numerica, centro francês de mediação científica (Sophia Antipolis; projeto do CNRS, do Inria e da Université Côte d'Azur), já usa o PrimaSTEM em suas atividades.
 
 Sem tela. Fabricado na França (Cannes), certificações CE e UKCA.
 
-Preço recomendado para a França: 297 € HT. Nele já estão inclusos matemática, geometria, desenho, voz e metodologia, sem custos adicionais à parte. Uma única compra basta para todos os anos, dos 4 aos 10.
-*O preço final é definido pelo distribuidor.*
+*O preço é definido pelo distribuidor.*
 
 Experimente o robô antes de comprar. Ele funciona direto no navegador. Abra o link ou aponte a câmera para o QR code:
 **simulator.primastem.com**

@@ -8,13 +8,13 @@
 *[stort foto: assets/photos/01-spirale-tracee.jpg]*
 Denne spiralen tegnet roboten helt selv, etter sitt eget program.
 
-Én robot vokser sammen med barnet fra 4 til 10 år. De minste lærer logikk og løser labyrinter, de eldre går videre til vinkler, geometri og tegning.
+Én robot vokser sammen med barnet fra 4 til 10 år og videre. De minste lærer logikk og løser labyrinter, de eldre går videre til vinkler, geometri og tegning.
 
 ### Tegner ekte geometri med tusj
 Sett inn en tusj, og roboten tegner en spiral eller en sammensatt figur rett på papiret, mens den regner ut vinkler og avstander underveis. En vanlig kjørende robot uten skjerm klarer ikke den samme presisjonen. Barnet ser resultatet av sitt eget program rett på arket.
 
 ### Én robot i stedet for flere innkjøp
-Tegning, geometri, stemme og en ferdig metodikk ligger i grunnsettet. Der man vanligvis må ha flere roboter for ulike aldre eller kjøpe ekstra betalte sett til én robot, dekker én robot alt her. Du trenger ikke et eget budsjett til tilleggskjøp.
+Programmering, tegning, geometri, stemme og en ferdig metodikk ligger i grunnsettet. Der man vanligvis må ha flere roboter for ulike aldre eller kjøpe ekstra betalte sett til én robot, dekker én robot alt her. Det er ingenting å betale ekstra for.
 
 ### Fungerer med det du allerede har
 Roboten kjører på alle rutete kart og matter: ferdige, eller slike du skriver ut eller tegner selv. Du trenger ikke kjøpe noe av et bestemt merke. Steget kan stilles inn til en hvilken som helst rutestørrelse, som standard 15 cm.
@@ -29,17 +29,17 @@ Programmet blir liggende på kontrollen, rett foran barnet. Hvis roboten kjører
 ### Bokstaver, ord og musikk
 Roboten leser opp hvert steg og hver kommando med stemme, på språket du velger. Talen er tilgjengelig på mer enn 17 språk. Den kjører opp på et kort med et ord og uttaler det. Til sammen rundt 90 ord: hus, skog, kino. Den nevner bokstavene i alfabetet, spiller toner og leser opp regnestykker. Den samme roboten som lærer barna å programmere og regne, gir dem samtidig et møte med språk og musikk.
 
-### Fra 4 til 10 år, én robot
+### Fra 4 til 10+, én robot
 4-7 år (de yngste på barneskolen): forflytninger og svinger, labyrinter, sekvenser, løkker.
 7-10 år (de eldste på barneskolen): nøyaktige avstander og vinkler, regning, geometri med figurer, tegning med tusj.
+10+: den samme roboten programmeres fra Scratch.
 
 ### Allerede i bruk
 Terra Numerica, et fransk senter for vitenskapsformidling (Sophia Antipolis; et prosjekt fra CNRS, Inria og Université Côte d'Azur), bruker allerede PrimaSTEM i sine økter.
 
 Uten skjerm. Laget i Frankrike (Cannes), sertifisert med CE og UKCA.
 
-Anbefalt pris for Frankrike: 297 € HT. I prisen inngår allerede matematikk, geometri, tegning, stemme og metodikk, uten ekstra tillegg. Ett kjøp holder for alle årene fra 4 til 10.
-*Endelig pris settes av distributøren.*
+*Prisen settes av distributøren.*
 
 Prøv roboten før du kjøper. Den kjører rett i nettleseren. Åpne lenken eller rett kameraet mot QR-koden:
 **simulator.primastem.com**

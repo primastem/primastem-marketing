@@ -8,13 +8,13 @@
 *[photo, large: assets/photos/01-spirale-tracee.jpg]*
 The robot drew this spiral itself, following its own program.
 
-One robot grows with the child from age 4 to 10. Younger children pick up logic and work through mazes, older ones move on to angles, geometry and drawing.
+One robot grows with the child from age 4 to 10 and beyond. Younger children pick up logic and work through mazes, older ones move on to angles, geometry and drawing.
 
 ### Draws real geometry with a marker
 Slip in a marker and the robot will draw a spiral or a complex shape on paper, working out the angles and distances as it goes. A plain rolling robot with no screen cannot match that precision. The child sees the result of their program right there on the page.
 
 ### One robot instead of several purchases
-Drawing, geometry, voice and a ready-made teaching method come in the base kit. Where you would normally keep several robots for different ages or buy paid add-on packs for one, here a single robot covers it all. No second budget for add-ons.
+Coding, drawing, geometry, voice and a ready-made teaching method come in the base kit. Where you would normally keep several robots for different ages or buy paid add-on packs for one, here a single robot covers it all. There is nothing to pay extra for.
 
 ### Works with what you already have
 The robot drives on any squared maps and mats: ready-made ones, or ones you print or draw yourself. There is nothing branded to buy. The step adjusts to any cell size, 15 cm by default.
@@ -29,17 +29,17 @@ The program stays on the panel, right in front of the child. If the robot heads 
 ### Letters, words and music
 The robot speaks every step and every command aloud, in the language you choose. Voice output is available in more than 17 languages. It rolls onto a card with a word and says it out loud. Around 90 words in all: house, forest, cinema. It names the letters of the alphabet, plays notes and reads out arithmetic. The same robot that teaches coding and counting also introduces speech and music along the way.
 
-### From 4 to 10 years, one robot
+### From 4 to 10+, one robot
 4-7 years (early primary school): movements and turns, mazes, sequences, loops.
 7-10 years (upper primary school): precise distances and angles, arithmetic, geometry of shapes, drawing with a marker.
+10+: the same robot is programmed from Scratch.
 
 ### Already in use
 Terra Numerica, a French science outreach centre (Sophia Antipolis; a project of CNRS, Inria and Université Côte d'Azur), already uses PrimaSTEM in its sessions.
 
 No screen. Made in France (Cannes), CE and UKCA certified.
 
-Recommended price for France: 297 € HT. It already includes maths, geometry, drawing, voice and the teaching method, with no separate extras. One purchase covers all the years from 4 to 10.
-*The final price is set by the distributor.*
+*The price is set by the distributor.*
 
 Try the robot before you buy. It runs right in your browser. Open the link or point your camera at the QR code:
 **simulator.primastem.com**
