@@ -37,7 +37,7 @@ El robot pronuncia en voz alta cada paso y cada comando, en el idioma que usted 
 ### Ya lo utilizan
 Terra Numerica, centro francés de mediación científica (Sophia Antipolis; proyecto de CNRS, Inria y Université Côte d'Azur), ya utiliza PrimaSTEM en sus sesiones.
 
-Sin pantalla. Fabricado en Francia (Cannes), certificado CE.
+Sin pantalla. Diseñado en Francia, certificado CE.
 
 *El precio lo fija el distribuidor.*
 
@@ -47,7 +47,7 @@ Pruebe el robot antes de comprarlo. Funciona directamente en el navegador. Abra 
 
 *En letra pequeña, abajo:*
 Composición. Mando, robot y un juego de fichas de comandos de cartón (NFC). Un equipo está pensado para un grupo de 2 a 4 niños. El cable USB-C y el cargador no se incluyen; sirve cualquiera estándar.
-Características. Robot y mando de madera, fichas de cartón. Robot de 125 mm de diámetro, 44 mm de altura, 220 g. Mando de 317 x 217 x 62 mm, 680 g. Fichas de 33 x 33 mm, NFC. 11 ranuras dobles. Paso por defecto de 15 cm, ajustable a cualquier tamaño. Giros de 1 a 360 grados. Bluetooth de unos 5 m. Batería Li-Ion, carga USB-C, alrededor de 1,5 horas. Edad 4-10 años. Fabricado en Cannes, Francia. Certificado CE.
+Características. Robot y mando de madera, fichas de cartón. Robot de 125 mm de diámetro, 44 mm de altura, 220 g. Mando de 317 x 217 x 62 mm, 680 g. Fichas de 33 x 33 mm, NFC. 11 ranuras dobles. Paso por defecto de 15 cm, ajustable a cualquier tamaño. Giros de 1 a 360 grados. Bluetooth de unos 5 m. Batería Li-Ion, carga USB-C, alrededor de 1,5 horas. Edad 4-10 años. Diseñado en Francia. Certificado CE.
 Servicio. Sirven rotuladores corrientes, la batería es reemplazable. La garantía y el servicio los proporciona el distribuidor.
 *La referencia y el precio los fija el distribuidor.*
 

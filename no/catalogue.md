@@ -37,7 +37,7 @@ Roboten leser opp hvert steg og hver kommando med stemme, på språket du velger
 ### Allerede i bruk
 Terra Numerica, et fransk senter for vitenskapsformidling (Sophia Antipolis; et prosjekt fra CNRS, Inria og Université Côte d'Azur), bruker allerede PrimaSTEM i sine økter.
 
-Uten skjerm. Laget i Frankrike (Cannes), sertifisert med CE.
+Uten skjerm. Designet i Frankrike, sertifisert med CE.
 
 *Prisen settes av distributøren.*
 
@@ -47,7 +47,7 @@ Prøv roboten før du kjøper. Den kjører rett i nettleseren. Åpne lenken elle
 
 *Med liten skrift, nederst:*
 Innhold. Kontroll, robot og et sett med kommandobrikker i papp (NFC). Ett sett er beregnet på en gruppe på 2-4 barn. USB-C-kabel og lader følger ikke med, hvilken som helst standard variant passer.
-Spesifikasjoner. Robot og kontroll i tre, brikker i papp. Roboten er 125 mm i diameter, 44 mm høy, 220 g. Kontrollen er 317 x 217 x 62 mm, 680 g. Brikkene er 33 x 33 mm, NFC. 11 doble spor. Steg som standard 15 cm, kan stilles til hvilken som helst størrelse. Svinger fra 1 til 360 grader. Bluetooth rundt 5 m. Li-Ion-batteri, lading via USB-C, rundt 1,5 time. Alder 4-10 år. Laget i Cannes, Frankrike. Sertifisert med CE.
+Spesifikasjoner. Robot og kontroll i tre, brikker i papp. Roboten er 125 mm i diameter, 44 mm høy, 220 g. Kontrollen er 317 x 217 x 62 mm, 680 g. Brikkene er 33 x 33 mm, NFC. 11 doble spor. Steg som standard 15 cm, kan stilles til hvilken som helst størrelse. Svinger fra 1 til 360 grader. Bluetooth rundt 5 m. Li-Ion-batteri, lading via USB-C, rundt 1,5 time. Alder 4-10 år. Designet i Frankrike. Sertifisert med CE.
 Service. Vanlige tusjer passer, batteriet kan byttes. Garanti og service ivaretas av distributøren.
 *Artikkelnummer og pris settes av distributøren.*
 
