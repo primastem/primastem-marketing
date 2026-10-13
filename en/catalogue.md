@@ -37,7 +37,7 @@ The robot speaks every step and every command aloud, in the language you choose.
 ### Already in use
 Terra Numerica, a French science outreach centre (Sophia Antipolis; a project of CNRS, Inria and Université Côte d'Azur), already uses PrimaSTEM in its sessions.
 
-No screen. Made in France (Cannes), CE and UKCA certified.
+No screen. Made in France (Cannes), CE certified.
 
 *The price is set by the distributor.*
 
@@ -47,7 +47,7 @@ Try the robot before you buy. It runs right in your browser. Open the link or po
 
 *Small print, at the bottom:*
 Contents. Control panel, robot and a set of cardboard command tiles (NFC). One kit is designed for a group of 2-4 children. A USB-C cable and charger are not included; any standard ones will work.
-Specifications. The robot and control panel are wooden, the tiles are cardboard. Robot 125 mm in diameter, 44 mm tall, 220 g. Control panel 317 x 217 x 62 mm, 680 g. Tiles 33 x 33 mm, NFC. 11 double slots. Step 15 cm by default, adjustable to any size. Turns from 1 to 360 degrees. Bluetooth around 5 m. Li-Ion battery, USB-C charging, about 1.5 hours. Age 4-10 years. Made in Cannes, France. CE and UKCA certified.
+Specifications. The robot and control panel are wooden, the tiles are cardboard. Robot 125 mm in diameter, 44 mm tall, 220 g. Control panel 317 x 217 x 62 mm, 680 g. Tiles 33 x 33 mm, NFC. 11 double slots. Step 15 cm by default, adjustable to any size. Turns from 1 to 360 degrees. Bluetooth around 5 m. Li-Ion battery, USB-C charging, about 1.5 hours. Age 4-10 years. Made in Cannes, France. CE certified.
 Service. Standard markers work, the battery is replaceable. Warranty and service are provided by the distributor.
 *The reference number and price are set by the distributor.*
 

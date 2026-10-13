@@ -37,7 +37,7 @@ Ab 10: derselbe Roboter lässt sich aus Scratch programmieren.
 ### Bereits im Einsatz
 Terra Numerica, das französische Zentrum für Wissenschaftsvermittlung (Sophia Antipolis; ein Projekt von CNRS, Inria und Université Côte d'Azur), setzt PrimaSTEM bereits in seinen Veranstaltungen ein.
 
-Ohne Bildschirm. Hergestellt in Frankreich (Cannes), zertifiziert nach CE und UKCA.
+Ohne Bildschirm. Hergestellt in Frankreich (Cannes), zertifiziert nach CE.
 
 *Den Preis legt der Distributor fest.*
 
@@ -47,7 +47,7 @@ Testen Sie den Roboter vor dem Kauf. Er läuft direkt im Browser. Öffnen Sie de
 
 *In kleiner Schrift, unten:*
 Lieferumfang. Konsole, Roboter und ein Satz Befehlskarten aus Pappe (NFC). Ein Set ist für eine Gruppe von 2-4 Kindern ausgelegt. USB-C-Kabel und Ladegerät sind nicht enthalten, jedes handelsübliche passt.
-Technische Daten. Roboter und Konsole aus Holz, Karten aus Pappe. Roboter 125 mm im Durchmesser, 44 mm hoch, 220 g. Konsole 317 x 217 x 62 mm, 680 g. Karten 33 x 33 mm, NFC. 11 Doppelslots. Schrittweite voreingestellt 15 cm, auf jede Größe einstellbar. Drehungen von 1 bis 360 Grad. Bluetooth etwa 5 m. Li-Ion-Akku, Laden über USB-C, etwa 1,5 Stunden. Alter 4-10 Jahre. Hergestellt in Cannes, Frankreich. Zertifiziert nach CE und UKCA.
+Technische Daten. Roboter und Konsole aus Holz, Karten aus Pappe. Roboter 125 mm im Durchmesser, 44 mm hoch, 220 g. Konsole 317 x 217 x 62 mm, 680 g. Karten 33 x 33 mm, NFC. 11 Doppelslots. Schrittweite voreingestellt 15 cm, auf jede Größe einstellbar. Drehungen von 1 bis 360 Grad. Bluetooth etwa 5 m. Li-Ion-Akku, Laden über USB-C, etwa 1,5 Stunden. Alter 4-10 Jahre. Hergestellt in Cannes, Frankreich. Zertifiziert nach CE.
 Service. Es passen gewöhnliche Filzstifte, der Akku ist wechselbar. Garantie und Service stellt der Distributor sicher.
 *Artikelnummer und Preis legt der Distributor fest.*
 
