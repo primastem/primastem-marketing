@@ -12,6 +12,8 @@ Download the whole kit as a single archive: [main.zip](https://github.com/primas
 primastem-marketing/
   assets/
     photos/   product photos (6 jpg)
+      print/  22 jpg, 300 dpi, full resolution
+      web/    the same 22 jpg, 2000 px
     qr/       simulator QR code: svg (vector) + png (780 px, 300 dpi, white background)
     logo/     logo: light/dark (color) + black/white (single ink), each as SVG and PNG
   ru/  catalogue.md   RU (source)
