@@ -47,7 +47,7 @@ Experimente o robô antes de comprar. Ele funciona direto no navegador. Abra o l
 
 *Em letras miúdas, no rodapé:*
 Composição. Controle, robô e um conjunto de fichas de comando em papelão (NFC). Um kit é pensado para um grupo de 2-4 crianças. O cabo USB-C e o carregador não estão inclusos, servem quaisquer modelos padrão.
-Características. Robô e controle em madeira, fichas em papelão. Robô com 125 mm de diâmetro, 44 mm de altura, 220 g. Controle 317 x 217 x 62 mm, 680 g. Fichas de 33 x 33 mm, NFC. 11 slots duplos. Passo padrão de 15 cm, ajustável a qualquer tamanho. Giros de 1 a 360 graus. Bluetooth de cerca de 5 m. Bateria Li-Ion, carregamento USB-C, cerca de 1,5 hora. Faixa etária 4-10 anos. Projetado na França. Certificação CE.
+Características. Robô e controle em madeira, fichas em papelão. Robô com 125 mm de diâmetro, 44 mm de altura, 225 g. Controle 317 x 217 x 62 mm, 760 g. Fichas de 33 x 33 mm, NFC, conjunto completo 150 g. Kit na caixa, cerca de 1,9 kg. 11 slots duplos. Passo padrão de 15 cm, ajustável a qualquer tamanho. Giros de 1 a 360 graus. Bluetooth de cerca de 5 m. Bateria Li-Ion, carregamento USB-C, cerca de 1,5 hora. Faixa etária 4-10 anos. Projetado na França. Certificação CE.
 Serviço. Servem canetas hidrográficas comuns, a bateria é substituível. Garantia e assistência são oferecidas pelo distribuidor.
 *O código do produto e o preço são definidos pelo distribuidor.*
 

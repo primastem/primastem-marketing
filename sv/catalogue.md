@@ -47,7 +47,7 @@ Prova roboten innan du köper. Den körs direkt i webbläsaren. Öppna länken e
 
 *Med liten stil, längst ned:*
 Innehåll. Fjärrkontroll, robot och en uppsättning kommandobrickor i kartong (NFC). En sats är avsedd för en grupp på 2-4 barn. USB-C-kabel och laddare ingår inte, vilka standardprodukter som helst fungerar.
-Specifikationer. Robot och fjärrkontroll i trä, brickor i kartong. Roboten är 125 mm i diameter, 44 mm hög, 220 g. Fjärrkontrollen 317 x 217 x 62 mm, 680 g. Brickorna 33 x 33 mm, NFC. 11 dubbla fack. Steg som standard 15 cm, ställbart efter vilken storlek som helst. Vändningar från 1 till 360 grader. Bluetooth cirka 5 m. Li-Ion-batteri, laddning via USB-C, cirka 1,5 timme. Ålder 4-10 år. Designad i Frankrike. Certifierad enligt CE.
+Specifikationer. Robot och fjärrkontroll i trä, brickor i kartong. Roboten är 125 mm i diameter, 44 mm hög, 225 g. Fjärrkontrollen 317 x 217 x 62 mm, 760 g. Brickorna 33 x 33 mm, NFC, tillsammans 150 g. Komplett sats i kartong cirka 1,9 kg. 11 dubbla fack. Steg som standard 15 cm, ställbart efter vilken storlek som helst. Vändningar från 1 till 360 grader. Bluetooth cirka 5 m. Li-Ion-batteri, laddning via USB-C, cirka 1,5 timme. Ålder 4-10 år. Designad i Frankrike. Certifierad enligt CE.
 Service. Vanliga tuschpennor fungerar, batteriet är utbytbart. Garanti och service tillhandahålls av distributören.
 *Artikelnummer och pris sätts av distributören.*
 

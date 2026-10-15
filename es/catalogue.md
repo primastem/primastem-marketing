@@ -47,7 +47,7 @@ Pruebe el robot antes de comprarlo. Funciona directamente en el navegador. Abra 
 
 *En letra pequeña, abajo:*
 Composición. Mando, robot y un juego de fichas de comandos de cartón (NFC). Un equipo está pensado para un grupo de 2 a 4 niños. El cable USB-C y el cargador no se incluyen; sirve cualquiera estándar.
-Características. Robot y mando de madera, fichas de cartón. Robot de 125 mm de diámetro, 44 mm de altura, 220 g. Mando de 317 x 217 x 62 mm, 680 g. Fichas de 33 x 33 mm, NFC. 11 ranuras dobles. Paso por defecto de 15 cm, ajustable a cualquier tamaño. Giros de 1 a 360 grados. Bluetooth de unos 5 m. Batería Li-Ion, carga USB-C, alrededor de 1,5 horas. Edad 4-10 años. Diseñado en Francia. Certificado CE.
+Características. Robot y mando de madera, fichas de cartón. Robot de 125 mm de diámetro, 44 mm de altura, 225 g. Mando de 317 x 217 x 62 mm, 760 g. Fichas de 33 x 33 mm, NFC, juego completo 150 g. Kit en su caja, unos 1,9 kg. 11 ranuras dobles. Paso por defecto de 15 cm, ajustable a cualquier tamaño. Giros de 1 a 360 grados. Bluetooth de unos 5 m. Batería Li-Ion, carga USB-C, alrededor de 1,5 horas. Edad 4-10 años. Diseñado en Francia. Certificado CE.
 Servicio. Sirven rotuladores corrientes, la batería es reemplazable. La garantía y el servicio los proporciona el distribuidor.
 *La referencia y el precio los fija el distribuidor.*
 

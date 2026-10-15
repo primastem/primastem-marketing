@@ -47,7 +47,7 @@ Wypróbuj robota przed zakupem. Działa bezpośrednio w przeglądarce. Otwórz l
 
 *Drobnym drukiem, na dole:*
 Zawartość. Pilot, robot i zestaw kartonowych żetonów poleceń (NFC). Jeden zestaw jest przeznaczony dla grupy 2-4 dzieci. Kabel USB-C i ładowarka nie są dołączone, pasują dowolne standardowe.
-Dane techniczne. Robot i pilot z drewna, żetony kartonowe. Robot o średnicy 125 mm, wysokości 44 mm, 220 g. Pilot 317 x 217 x 62 mm, 680 g. Żetony 33 x 33 mm, NFC. 11 podwójnych gniazd. Krok domyślnie 15 cm, regulowany pod dowolny rozmiar. Obroty od 1 do 360 stopni. Bluetooth około 5 m. Akumulator Li-Ion, ładowanie przez USB-C, około 1,5 godziny. Wiek 4-10 lat. Zaprojektowano we Francji. Certyfikat CE.
+Dane techniczne. Robot i pilot z drewna, żetony kartonowe. Robot o średnicy 125 mm, wysokości 44 mm, 225 g. Pilot 317 x 217 x 62 mm, 760 g. Żetony 33 x 33 mm, NFC, komplet 150 g. Zestaw w pudełku około 1,9 kg. 11 podwójnych gniazd. Krok domyślnie 15 cm, regulowany pod dowolny rozmiar. Obroty od 1 do 360 stopni. Bluetooth około 5 m. Akumulator Li-Ion, ładowanie przez USB-C, około 1,5 godziny. Wiek 4-10 lat. Zaprojektowano we Francji. Certyfikat CE.
 Serwis. Pasują zwykłe pisaki, akumulator jest wymienny. Gwarancję i serwis zapewnia dystrybutor.
 *Numer katalogowy i cenę wpisuje dystrybutor.*
 

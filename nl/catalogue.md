@@ -47,7 +47,7 @@ Probeer de robot uit voordat je koopt. Hij werkt rechtstreeks in de browser. Ope
 
 *In klein lettertype, onderaan:*
 Inhoud. Een bedieningspaneel, een robot en een set kartonnen commandofiches (NFC). Eén set is bedoeld voor een groepje van 2-4 kinderen. Een USB-C-kabel en oplader zitten er niet bij, elke standaard versie volstaat.
-Specificaties. Robot en paneel van hout, fiches van karton. Robot 125 mm in diameter, 44 mm hoog, 220 g. Paneel 317 x 217 x 62 mm, 680 g. Fiches 33 x 33 mm, NFC. 11 dubbele sleuven. Stap standaard 15 cm, in te stellen op elke grootte. Draaien van 1 tot 360 graden. Bluetooth ongeveer 5 m. Li-Ion-accu, opladen via USB-C, ongeveer 1,5 uur. Leeftijd 4-10 jaar. Ontworpen in Frankrijk. Certificaat CE.
+Specificaties. Robot en paneel van hout, fiches van karton. Robot 125 mm in diameter, 44 mm hoog, 225 g. Paneel 317 x 217 x 62 mm, 760 g. Fiches 33 x 33 mm, NFC, volledige set 150 g. Kit in doos ongeveer 1,9 kg. 11 dubbele sleuven. Stap standaard 15 cm, in te stellen op elke grootte. Draaien van 1 tot 360 graden. Bluetooth ongeveer 5 m. Li-Ion-accu, opladen via USB-C, ongeveer 1,5 uur. Leeftijd 4-10 jaar. Ontworpen in Frankrijk. Certificaat CE.
 Service. Gewone stiften zijn geschikt, de accu is vervangbaar. Garantie en service worden door de distributeur verzorgd.
 *Artikelnummer en prijs worden door de distributeur bepaald.*
 

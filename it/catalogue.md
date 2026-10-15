@@ -47,7 +47,7 @@ Prova il robot prima di acquistarlo. Funziona direttamente nel browser. Apri il 
 
 *In caratteri piccoli, in basso:*
 Composizione. La console, il robot e un set di tessere comando di cartone (NFC). Un kit è pensato per un gruppo di 2-4 bambini. Il cavo USB-C e il caricabatterie non sono inclusi, vanno bene quelli standard.
-Caratteristiche. Robot e console in legno, tessere in cartone. Robot di 125 mm di diametro, 44 mm di altezza, 220 g. Console 317 x 217 x 62 mm, 680 g. Tessere 33 x 33 mm, NFC. 11 slot doppi. Passo di default 15 cm, regolabile su qualsiasi dimensione. Rotazioni da 1 a 360 gradi. Bluetooth circa 5 m. Batteria Li-Ion, ricarica USB-C, circa 1,5 ore. Età 4-10 anni. Progettato in Francia. Certificazione CE.
+Caratteristiche. Robot e console in legno, tessere in cartone. Robot di 125 mm di diametro, 44 mm di altezza, 225 g. Console 317 x 217 x 62 mm, 760 g. Tessere 33 x 33 mm, NFC, set completo 150 g. Kit in scatola circa 1,9 kg. 11 slot doppi. Passo di default 15 cm, regolabile su qualsiasi dimensione. Rotazioni da 1 a 360 gradi. Bluetooth circa 5 m. Batteria Li-Ion, ricarica USB-C, circa 1,5 ore. Età 4-10 anni. Progettato in Francia. Certificazione CE.
 Assistenza. Vanno bene i normali pennarelli, la batteria è sostituibile. Garanzia e assistenza sono fornite dal distributore.
 *Codice articolo e prezzo vengono stabiliti dal distributore.*
 

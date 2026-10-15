@@ -47,7 +47,7 @@ Essayez le robot avant de l'acheter. Il fonctionne directement dans le navigateu
 
 *En petits caractères, en bas :*
 Contenu. Une télécommande, un robot et un jeu de jetons de commande en carton (NFC). Un kit est prévu pour un groupe de 2 à 4 enfants. Le câble USB-C et le chargeur ne sont pas inclus, n'importe quels modèles standard conviennent.
-Caractéristiques. Robot et télécommande en bois, jetons en carton. Robot de 125 mm de diamètre, 44 mm de hauteur, 220 g. Télécommande 317 x 217 x 62 mm, 680 g. Jetons 33 x 33 mm, NFC. 11 emplacements doubles. Pas de 15 cm par défaut, réglable pour toute taille. Rotations de 1 à 360 degrés. Bluetooth, portée d'environ 5 m. Batterie Li-Ion, charge USB-C, environ 1,5 heure. Âge 4 à 10 ans. Conçu en France. Certification CE.
+Caractéristiques. Robot et télécommande en bois, jetons en carton. Robot de 125 mm de diamètre, 44 mm de hauteur, 225 g. Télécommande 317 x 217 x 62 mm, 760 g. Jetons 33 x 33 mm, NFC, jeu complet 150 g. Kit en boîte environ 1,9 kg. 11 emplacements doubles. Pas de 15 cm par défaut, réglable pour toute taille. Rotations de 1 à 360 degrés. Bluetooth, portée d'environ 5 m. Batterie Li-Ion, charge USB-C, environ 1,5 heure. Âge 4 à 10 ans. Conçu en France. Certification CE.
 Service. Des feutres ordinaires conviennent, la batterie est remplaçable. La garantie et le service après-vente sont assurés par le distributeur.
 *La référence et le prix sont fixés par le distributeur.*
 
