@@ -14,7 +14,7 @@ Eén robot groeit mee met het kind van 4 tot 10 jaar en daarna. De jongsten lere
 Steek er een stift in en de robot tekent op papier een spiraal of een ingewikkelde figuur, terwijl hij onderweg hoeken en afstanden berekent. Een gewone rijdende robot zonder scherm haalt zo'n precisie niet. Het kind ziet het resultaat van zijn programma rechtstreeks op het blad.
 
 ### Eén robot in plaats van meerdere aankopen
-Programmeren, tekenen, meetkunde, spraak en een kant-en-klare methodiek zitten in de basisset. Waar je normaal meerdere robots voor verschillende leeftijden aanhoudt of betaalde sets bijkoopt voor één robot, dekt hier één robot alles. Er valt niets bij te betalen.
+Programmeren, tekenen, meetkunde, spraak en een kant-en-klare methodiek zitten in de basisset. Waar je normaal meerdere robots voor verschillende leeftijden aanhoudt of betaalde sets bijkoopt voor één robot, dekt hier één robot alles, zonder bij te betalen.
 
 ### Werkt met wat je al hebt
 De robot rijdt over elke geruite kaart of mat: kant-en-klaar of een die je zelf afdrukt of tekent. Iets van het merk kopen hoeft niet. De stap is in te stellen op elke vakgrootte, standaard 15 cm.
@@ -27,7 +27,7 @@ De kant-en-klare cursus leidt van het eerste programma via functies, lussen, afs
 Het programma blijft op het paneel staan, voor de ogen van het kind. Als de robot de verkeerde kant op rijdt of de lijn scheef uitvalt, vindt het kind zelf de foute stap, past een deel van het programma aan en probeert opnieuw. Met een stift is het nog duidelijker: de fout zie je meteen op papier.
 
 ### Letters, woorden en muziek
-De robot spreekt elke stap en elk commando hardop uit, in de taal die jij kiest. De spraak is in meer dan 17 talen beschikbaar. Hij rijdt op een kaartje met een woord en zegt het. In totaal zo'n 90 woorden: huis, bos, bioscoop. Hij noemt de letters van het alfabet, speelt noten en spreekt rekensommen uit. Dezelfde robot die leert programmeren en rekenen, maakt onderweg kennis met taal en muziek.
+De robot spreekt elke stap en elk commando hardop uit, in de taal die jij kiest. De spraak is in meer dan 17 talen beschikbaar. Hij rijdt op een kaartje met een woord en zegt het. In totaal zo'n 90 woorden: huis, bos, bioscoop. Hij noemt de letters van het alfabet, speelt noten en spreekt rekensommen uit.
 
 ### Van 4 tot 10+, één robot
 4-7 jaar (onderbouw van de basisschool): verplaatsingen en draaien, doolhoven, reeksen, lussen.
@@ -35,13 +35,13 @@ De robot spreekt elke stap en elk commando hardop uit, in de taal die jij kiest.
 10+: dezelfde robot wordt geprogrammeerd vanuit Scratch.
 
 ### Al in gebruik
-Terra Numerica, het Franse centrum voor wetenschappelijke mediatie (Sophia Antipolis; een project van CNRS, Inria en Université Côte d'Azur), gebruikt PrimaSTEM al in zijn lessen.
+Terra Numerica gebruikt PrimaSTEM al in zijn lessen. Het is een Frans centrum voor wetenschapscommunicatie in Sophia Antipolis, een project van CNRS, Inria en Université Côte d'Azur.
 
 Zonder scherm. Ontworpen in Frankrijk, certificaat CE.
 
 *De prijs wordt door de distributeur bepaald.*
 
-Probeer de robot uit voordat je koopt. Hij werkt rechtstreeks in de browser. Open de link of richt je camera op de QR-code:
+Probeer de robot uit voordat je koopt: de simulator werkt rechtstreeks in de browser. Open de link of richt je camera op de QR-code:
 **simulator.primastem.com**
 *[QR: assets/qr/simulateur-qr.svg]*
 

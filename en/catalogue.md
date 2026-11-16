@@ -11,10 +11,10 @@ The robot drew this spiral itself, following its own program.
 One robot grows with the child from age 4 to 10 and beyond. Younger children pick up logic and work through mazes, older ones move on to angles, geometry and drawing.
 
 ### Draws real geometry with a marker
-Slip in a marker and the robot will draw a spiral or a complex shape on paper, working out the angles and distances as it goes. A plain rolling robot with no screen cannot match that precision. The child sees the result of their program right there on the page.
+Slip in a marker and the robot will draw a spiral or a complex shape on paper. It works out the angles and distances as it goes. A plain rolling robot with no screen cannot match that precision. The child sees the result of their program right there on the page.
 
 ### One robot instead of several purchases
-Coding, drawing, geometry, voice and a ready-made teaching method come in the base kit. Where you would normally keep several robots for different ages or buy paid add-on packs for one, here a single robot covers it all. There is nothing to pay extra for.
+Coding, drawing, geometry, voice and a ready-made teaching method come in the base kit. Where you would normally keep several robots for different ages or buy paid add-on packs for one, here a single robot covers it all, with nothing extra to pay.
 
 ### Works with what you already have
 The robot drives on any squared maps and mats: ready-made ones, or ones you print or draw yourself. There is nothing branded to buy. The step adjusts to any cell size, 15 cm by default.
@@ -27,7 +27,7 @@ A ready-made course leads from the first program through functions, loops, dista
 The program stays on the panel, right in front of the child. If the robot heads the wrong way or the line comes out crooked, the child finds the wrong step, changes part of the program and tries again. With a marker it is even clearer: the mistake shows up at once on the paper.
 
 ### Letters, words and music
-The robot speaks every step and every command aloud, in the language you choose. Voice output is available in more than 17 languages. It rolls onto a card with a word and says it out loud. Around 90 words in all: house, forest, cinema. It names the letters of the alphabet, plays notes and reads out arithmetic. The same robot that teaches coding and counting also introduces speech and music along the way.
+The robot speaks every step and every command aloud, in the language you choose. Voice output is available in more than 17 languages. It rolls onto a card with a word and says it out loud. Around 90 words in all: house, forest, cinema. It names the letters of the alphabet, plays notes and reads out arithmetic.
 
 ### From 4 to 10+, one robot
 4-7 years (early primary school): movements and turns, mazes, sequences, loops.
@@ -35,18 +35,18 @@ The robot speaks every step and every command aloud, in the language you choose.
 10+: the same robot is programmed from Scratch.
 
 ### Already in use
-Terra Numerica, a French science outreach centre (Sophia Antipolis; a project of CNRS, Inria and Université Côte d'Azur), already uses PrimaSTEM in its sessions.
+Terra Numerica already uses PrimaSTEM in its sessions. It is a French science outreach centre in Sophia Antipolis, a project of CNRS, Inria and Université Côte d'Azur.
 
 No screen. Designed in France, CE certified.
 
 *The price is set by the distributor.*
 
-Try the robot before you buy. It runs right in your browser. Open the link or point your camera at the QR code:
+Try the robot before you buy: its simulator runs right in your browser. Open the link or point your camera at the QR code:
 **simulator.primastem.com**
 *[QR: assets/qr/simulateur-qr.svg]*
 
 *Small print, at the bottom:*
-Contents. Control panel, robot and a set of cardboard command tiles (NFC). One kit is designed for a group of 2-4 children. A USB-C cable and charger are not included; any standard ones will work.
+Contents. Control panel, robot and a set of cardboard command tiles (NFC). One kit is designed for a group of 2-4 children. A USB-C cable and charger are not included. Any standard ones will work.
 Specifications. The robot and control panel are wooden, the tiles are cardboard. Robot 120 mm in diameter, 44 mm tall, 225 g. Control panel 317 x 217 x 62 mm, 760 g. Tiles 33 x 33 mm, NFC, full set 150 g. Kit in its box about 1.9 kg. 11 double slots. Step 15 cm by default, adjustable to any size. Turns from 1 to 360 degrees. Bluetooth around 5 m. Li-Ion battery, USB-C charging, about 1.5 hours. Age 4-10 years. Designed in France. CE certified.
 Service. Standard markers work, the battery is replaceable. Warranty and service are provided by the distributor.
 *The reference number and price are set by the distributor.*

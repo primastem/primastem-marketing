@@ -14,7 +14,7 @@ Jeden robot rośnie razem z dzieckiem od 4 do 10 lat i dalej. Młodsze dzieci uc
 Włóż pisak, a robot narysuje na papierze spiralę lub złożoną figurę, obliczając kąty i odległości w trakcie jazdy. Zwykły jeżdżący robot bez ekranu nie powtórzy takiej precyzji. Dziecko widzi wynik swojego programu od razu na kartce.
 
 ### Jeden robot zamiast kilku zakupów
-Programowanie, rysowanie, geometria, głos i gotowa metodyka są w zestawie podstawowym. Tam, gdzie zwykle trzyma się kilka robotów na różny wiek albo dokupuje płatne zestawy do jednego, tutaj wszystko załatwia jeden robot. Nie trzeba za nic dopłacać.
+Programowanie, rysowanie, geometria, głos i gotowa metodyka są w zestawie podstawowym. Tam, gdzie zwykle trzyma się kilka robotów na różny wiek albo dokupuje płatne zestawy do jednego, tutaj wszystko załatwia jeden robot, bez dopłat.
 
 ### Działa z tym, co już macie
 Robot jeździ po dowolnych mapach i matach w kratkę: gotowych albo takich, które sami wydrukujecie lub narysujecie. Nie trzeba kupować niczego firmowego. Krok ustawia się pod dowolny rozmiar kratki, domyślnie 15 cm.
@@ -27,7 +27,7 @@ Gotowy kurs prowadzi od pierwszego programu przez funkcje, pętle, odległości 
 Program zostaje na pilocie, przed oczami dziecka. Jeśli robot pojechał nie tam albo linia wyszła krzywo, dziecko samo znajduje błędny krok, zmienia część programu i próbuje znowu. Z pisakiem widać to jeszcze lepiej: błąd od razu pojawia się na papierze.
 
 ### Litery, słowa i muzyka
-Robot wypowiada na głos każdy krok i każde polecenie w wybranym przez was języku. Głos jest dostępny w ponad 17 językach. Gdy wjedzie na kartę ze słowem, wymawia je. W sumie około 90 słów: dom, las, kino. Nazywa litery alfabetu, gra nuty i odczytuje działania arytmetyczne. Ten sam robot, który uczy programowania i liczenia, przy okazji oswaja z mową i muzyką.
+Robot wypowiada na głos każdy krok i każde polecenie w wybranym przez was języku. Głos jest dostępny w ponad 17 językach. Gdy wjedzie na kartę ze słowem, wymawia je. W sumie około 90 słów: dom, las, kino. Nazywa litery alfabetu, gra nuty i odczytuje działania arytmetyczne.
 
 ### Od 4 do 10+, jeden robot
 4-7 lat (przedszkole i zerówka): ruchy i obroty, labirynty, sekwencje, pętle.
@@ -35,13 +35,13 @@ Robot wypowiada na głos każdy krok i każde polecenie w wybranym przez was ję
 10+: ten sam robot programuje się w Scratchu.
 
 ### Już korzystają
-Terra Numerica, francuskie centrum popularyzacji nauki (Sophia Antipolis; projekt CNRS, Inria i Université Côte d'Azur), już używa PrimaSTEM na swoich zajęciach.
+Terra Numerica już używa PrimaSTEM na swoich zajęciach. To francuskie centrum popularyzacji nauki w Sophia Antipolis, projekt CNRS, Inria i Université Côte d'Azur.
 
 Bez ekranu. Zaprojektowano we Francji, certyfikat CE.
 
 *Cenę ustala dystrybutor.*
 
-Wypróbuj robota przed zakupem. Działa bezpośrednio w przeglądarce. Otwórz link albo skieruj aparat na kod QR:
+Wypróbuj robota przed zakupem: jego symulator działa bezpośrednio w przeglądarce. Otwórz link albo skieruj aparat na kod QR:
 **simulator.primastem.com**
 *[QR: assets/qr/simulateur-qr.svg]*
 

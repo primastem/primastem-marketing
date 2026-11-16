@@ -14,7 +14,7 @@ En enda robot växer tillsammans med barnet från 4 till 10 år och vidare. De y
 Sätt i en tuschpenna, så ritar roboten en spiral eller en komplex figur på papper och räknar ut vinklar och avstånd medan den kör. En vanlig rullande robot utan skärm klarar inte den precisionen. Barnet ser resultatet av sitt program direkt på arket.
 
 ### En robot i stället för flera inköp
-Programmering, teckning, geometri, röst och en färdig metodik ingår i grundsatsen. Där man annars håller sig med flera robotar för olika åldrar eller köper till betalpaket till en enda, räcker här en robot till allt. Det finns inget att betala extra för.
+Programmering, teckning, geometri, röst och en färdig metodik ingår i grundsatsen. Där man annars håller sig med flera robotar för olika åldrar eller köper till betalpaket till en enda, räcker här en robot till allt, utan extra kostnader.
 
 ### Fungerar med det du redan har
 Roboten kör på vilka rutade kartor och mattor som helst: färdiga eller sådana som du skriver ut eller ritar själv. Du behöver inte köpa något märkesspecifikt. Steget ställs in efter vilken rutstorlek som helst, som standard 15 cm.
@@ -27,7 +27,7 @@ En färdig kurs leder från det första programmet via funktioner, loopar, avst�
 Programmet ligger kvar på fjärrkontrollen, framför barnets ögon. Om roboten kör fel väg eller linjen blir sned, hittar barnet själv det felaktiga steget, ändrar en del av programmet och försöker igen. Med tuschpennan blir det ännu tydligare: felet syns genast på papperet.
 
 ### Bokstäver, ord och musik
-Roboten läser upp varje steg och varje kommando med röst, på det språk du valt. Talet finns på över 17 språk. Den kör fram till ett kort med ett ord och uttalar det. Sammanlagt cirka 90 ord: hus, skog, bio. Den nämner alfabetets bokstäver, spelar upp toner och läser upp aritmetik. Samma robot som lär ut programmering och räkning introducerar på köpet språk och musik.
+Roboten läser upp varje steg och varje kommando med röst, på det språk du valt. Talet finns på över 17 språk. Den kör fram till ett kort med ett ord och uttalar det. Sammanlagt cirka 90 ord: hus, skog, bio. Den nämner alfabetets bokstäver, spelar upp toner och läser upp aritmetik.
 
 ### Från 4 till 10+, en enda robot
 4-7 år (lågstadiet): förflyttningar och vändningar, labyrinter, sekvenser, loopar.
@@ -35,13 +35,13 @@ Roboten läser upp varje steg och varje kommando med röst, på det språk du va
 10+: samma robot programmeras från Scratch.
 
 ### Används redan
-Terra Numerica, ett franskt centrum för vetenskaplig förmedling (Sophia Antipolis; ett projekt av CNRS, Inria och Université Côte d'Azur), använder redan PrimaSTEM i sin undervisning.
+Terra Numerica använder redan PrimaSTEM i sin undervisning. Det är ett franskt centrum för vetenskapskommunikation i Sophia Antipolis, ett projekt av CNRS, Inria och Université Côte d'Azur.
 
 Utan skärm. Designad i Frankrike, certifierad enligt CE.
 
 *Priset sätts av distributören.*
 
-Prova roboten innan du köper. Den körs direkt i webbläsaren. Öppna länken eller rikta kameran mot QR-koden:
+Prova roboten innan du köper: simulatorn körs direkt i webbläsaren. Öppna länken eller rikta kameran mot QR-koden:
 **simulator.primastem.com**
 *[QR: assets/qr/simulateur-qr.svg]*
 

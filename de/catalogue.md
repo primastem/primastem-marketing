@@ -14,7 +14,7 @@ Ein einziger Roboter wächst mit dem Kind mit, von 4 bis 10 Jahren und darüber 
 Stecken Sie einen Filzstift ein, und der Roboter zeichnet eine Spirale oder eine komplexe Figur auf das Papier, wobei er Winkel und Abstände unterwegs berechnet. Ein gewöhnlicher fahrender Roboter ohne Bildschirm schafft diese Präzision nicht. Das Kind sieht das Ergebnis seines Programms direkt auf dem Blatt.
 
 ### Ein Roboter statt mehrerer Anschaffungen
-Programmieren, Zeichnen, Geometrie, Sprachausgabe und eine fertige Methodik stecken bereits im Grundset. Wo man sonst mehrere Roboter für verschiedene Altersstufen braucht oder kostenpflichtige Erweiterungen zu einem dazukauft, deckt hier ein einziger Roboter alles ab. Aufpreise gibt es keine.
+Programmieren, Zeichnen, Geometrie, Sprachausgabe und eine fertige Methodik stecken bereits im Grundset. Wo man sonst mehrere Roboter für verschiedene Altersstufen braucht oder kostenpflichtige Erweiterungen zu einem dazukauft, deckt hier ein einziger Roboter alles ab, ohne Aufpreis.
 
 ### Funktioniert mit dem, was Sie haben
 Der Roboter fährt über beliebige karierte Karten und Matten: über fertige oder über solche, die Sie selbst ausdrucken oder zeichnen. Es muss nichts Markeneigenes gekauft werden. Die Schrittweite lässt sich auf jede Kästchengröße einstellen, voreingestellt sind 15 cm.
@@ -27,7 +27,7 @@ Ein fertiger Kurs führt vom ersten Programm über Funktionen, Schleifen, Abstä
 Das Programm bleibt auf der Konsole, vor den Augen des Kindes. Fährt der Roboter in die falsche Richtung oder wird die Linie krumm, findet das Kind selbst den falschen Schritt, ändert einen Teil des Programms und versucht es erneut. Mit dem Filzstift ist das noch anschaulicher: Der Fehler ist sofort auf dem Papier zu sehen.
 
 ### Buchstaben, Wörter und Musik
-Der Roboter spricht jeden Schritt und jeden Befehl mit Stimme aus, in der von Ihnen gewählten Sprache. Die Sprachausgabe ist in mehr als 17 Sprachen verfügbar. Er fährt auf eine Karte mit einem Wort und spricht es aus. Insgesamt rund 90 Wörter: Haus, Wald, Kino. Er nennt die Buchstaben des Alphabets, spielt Noten ab und spricht Rechenaufgaben vor. Derselbe Roboter, der das Programmieren und Rechnen lehrt, macht nebenbei mit Sprache und Musik vertraut.
+Der Roboter spricht jeden Schritt und jeden Befehl mit Stimme aus, in der von Ihnen gewählten Sprache. Die Sprachausgabe ist in mehr als 17 Sprachen verfügbar. Er fährt auf eine Karte mit einem Wort und spricht es aus. Insgesamt rund 90 Wörter: Haus, Wald, Kino. Er nennt die Buchstaben des Alphabets, spielt Noten ab und spricht Rechenaufgaben vor.
 
 ### Von 4 bis 10+, ein Roboter
 4-7 Jahre (untere Grundschulklassen): Bewegungen und Drehungen, Labyrinthe, Abfolgen, Schleifen.
@@ -35,13 +35,13 @@ Der Roboter spricht jeden Schritt und jeden Befehl mit Stimme aus, in der von Ih
 Ab 10: derselbe Roboter lässt sich aus Scratch programmieren.
 
 ### Bereits im Einsatz
-Terra Numerica, das französische Zentrum für Wissenschaftsvermittlung (Sophia Antipolis; ein Projekt von CNRS, Inria und Université Côte d'Azur), setzt PrimaSTEM bereits in seinen Veranstaltungen ein.
+Terra Numerica setzt PrimaSTEM bereits in seinen Veranstaltungen ein. Es ist ein französisches Zentrum für Wissenschaftsvermittlung in Sophia Antipolis, ein Projekt von CNRS, Inria und Université Côte d'Azur.
 
 Ohne Bildschirm. Entwickelt in Frankreich, zertifiziert nach CE.
 
 *Den Preis legt der Distributor fest.*
 
-Testen Sie den Roboter vor dem Kauf. Er läuft direkt im Browser. Öffnen Sie den Link oder richten Sie die Kamera auf den QR-Code:
+Testen Sie den Roboter vor dem Kauf: Sein Simulator läuft direkt im Browser. Öffnen Sie den Link oder richten Sie die Kamera auf den QR-Code:
 **simulator.primastem.com**
 *[QR: assets/qr/simulateur-qr.svg]*
 

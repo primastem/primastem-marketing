@@ -33,7 +33,7 @@ primastem-marketing/
 ```
 
 Catalog page available in 14 languages: RU (source), EN, FR, ES, IT, DE, NL, NO, SV, PL, LT, PT-BR, HE, AR.
-Each `<lang>/catalogue.md` holds the full page text in reading order; `*italic*` and `[brackets]` are typesetter notes, everything else prints.
+Each `<lang>/catalogue.md` holds the full page text in reading order. `*italic*` and `[brackets]` are typesetter notes, everything else prints.
 
 Every language is provided in four formats:
 - `catalogue.md` - editable source text

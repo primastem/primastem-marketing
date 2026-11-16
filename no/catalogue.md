@@ -14,7 +14,7 @@ Denne spiralen tegnet roboten helt selv, etter sitt eget program.
 Sett inn en tusj, og roboten tegner en spiral eller en sammensatt figur rett på papiret, mens den regner ut vinkler og avstander underveis. En vanlig kjørende robot uten skjerm klarer ikke den samme presisjonen. Barnet ser resultatet av sitt eget program rett på arket.
 
 ### Én robot i stedet for flere innkjøp
-Programmering, tegning, geometri, stemme og en ferdig metodikk ligger i grunnsettet. Der man vanligvis må ha flere roboter for ulike aldre eller kjøpe ekstra betalte sett til én robot, dekker én robot alt her. Det er ingenting å betale ekstra for.
+Programmering, tegning, geometri, stemme og en ferdig metodikk ligger i grunnsettet. Der man vanligvis må ha flere roboter for ulike aldre eller kjøpe ekstra betalte sett til én robot, dekker én robot alt her, uten ekstra kostnader.
 
 ### Fungerer med det du allerede har
 Roboten kjører på alle rutete kart og matter: ferdige, eller slike du skriver ut eller tegner selv. Du trenger ikke kjøpe noe av et bestemt merke. Steget kan stilles inn til en hvilken som helst rutestørrelse, som standard 15 cm.
@@ -27,7 +27,7 @@ Et ferdig kurs tar deg fra det første programmet, via funksjoner, løkker, avst
 Programmet blir liggende på kontrollen, rett foran barnet. Hvis roboten kjører feil vei eller streken blir skjev, finner barnet selv det gale steget, endrer en del av programmet og prøver på nytt. Med tusj blir det enda tydeligere: feilen ser man med en gang på papiret.
 
 ### Bokstaver, ord og musikk
-Roboten leser opp hvert steg og hver kommando med stemme, på språket du velger. Talen er tilgjengelig på mer enn 17 språk. Den kjører opp på et kort med et ord og uttaler det. Til sammen rundt 90 ord: hus, skog, kino. Den nevner bokstavene i alfabetet, spiller toner og leser opp regnestykker. Den samme roboten som lærer barna å programmere og regne, gir dem samtidig et møte med språk og musikk.
+Roboten leser opp hvert steg og hver kommando med stemme, på språket du velger. Talen er tilgjengelig på mer enn 17 språk. Den kjører opp på et kort med et ord og uttaler det. Til sammen rundt 90 ord: hus, skog, kino. Den nevner bokstavene i alfabetet, spiller toner og leser opp regnestykker.
 
 ### Fra 4 til 10+, én robot
 4-7 år (de yngste på barneskolen): forflytninger og svinger, labyrinter, sekvenser, løkker.
@@ -35,13 +35,13 @@ Roboten leser opp hvert steg og hver kommando med stemme, på språket du velger
 10+: den samme roboten programmeres fra Scratch.
 
 ### Allerede i bruk
-Terra Numerica, et fransk senter for vitenskapsformidling (Sophia Antipolis; et prosjekt fra CNRS, Inria og Université Côte d'Azur), bruker allerede PrimaSTEM i sine økter.
+Terra Numerica bruker allerede PrimaSTEM i sine økter. Det er et fransk senter for vitenskapsformidling i Sophia Antipolis, et prosjekt fra CNRS, Inria og Université Côte d'Azur.
 
 Uten skjerm. Designet i Frankrike, sertifisert med CE.
 
 *Prisen settes av distributøren.*
 
-Prøv roboten før du kjøper. Den kjører rett i nettleseren. Åpne lenken eller rett kameraet mot QR-koden:
+Prøv roboten før du kjøper: simulatoren kjører rett i nettleseren. Åpne lenken eller rett kameraet mot QR-koden:
 **simulator.primastem.com**
 *[QR: assets/qr/simulateur-qr.svg]*
 

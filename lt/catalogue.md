@@ -14,7 +14,7 @@ Vienas robotas auga kartu su vaiku nuo 4 iki 10 metų ir toliau. Mažesni vaikai
 Įstatykite flomasterį, ir robotas nubraižys ant popieriaus spiralę ar sudėtingą figūrą, kampus ir atstumus apskaičiuodamas važiuojant. Paprastas važinėjantis robotas be ekrano tokio tikslumo nepasieks. Vaikas savo programos rezultatą mato iš karto ant lapo.
 
 ### Vienas robotas vietoj kelių pirkinių
-Programavimas, piešimas, geometrija, balsas ir paruošta metodika yra baziniame rinkinyje. Kur paprastai laikomi keli robotai skirtingam amžiui arba vienam robotui perkami papildomi mokami rinkiniai, čia viską atlieka vienas robotas. Nieko primokėti nereikia.
+Programavimas, piešimas, geometrija, balsas ir paruošta metodika yra baziniame rinkinyje. Kur paprastai laikomi keli robotai skirtingam amžiui arba vienam robotui perkami papildomi mokami rinkiniai, čia viską atlieka vienas robotas be jokių priemokų.
 
 ### Veikia su tuo, ką jau turite
 Robotas važinėja bet kokiais langeliais suskirstytais žemėlapiais ir kilimėliais: paruoštais arba tokiais, kuriuos patys atsispausdinsite ar nupiešite. Firminių priedų pirkti nereikia. Žingsnis nustatomas pagal bet kokį langelio dydį, numatytasis 15 cm.
@@ -27,7 +27,7 @@ Paruoštas kursas veda nuo pirmosios programos per funkcijas, ciklus, atstumus i
 Programa lieka ant pulto, vaikui prieš akis. Jei robotas nuvažiavo ne ten arba linija išėjo kreiva, vaikas pats randa klaidingą žingsnį, pakeičia dalį programos ir bando dar kartą. Su flomasteriu tai dar aiškiau: klaida iškart matyti ant popieriaus.
 
 ### Raidės, žodžiai ir muzika
-Robotas balsu ištaria kiekvieną žingsnį ir kiekvieną komandą Jūsų pasirinkta kalba. Įgarsinimas prieinamas daugiau nei 17 kalbų. Užvažiavęs ant kortelės su žodžiu, jį ištaria. Iš viso apie 90 žodžių: namas, miškas, kinas. Įvardija abėcėlės raides, groja natas ir įgarsina aritmetiką. Tas pats robotas, kuris moko programuoti ir skaičiuoti, pakeliui supažindina su kalba ir muzika.
+Robotas balsu ištaria kiekvieną žingsnį ir kiekvieną komandą Jūsų pasirinkta kalba. Įgarsinimas prieinamas daugiau nei 17 kalbų. Užvažiavęs ant kortelės su žodžiu, jį ištaria. Iš viso apie 90 žodžių: namas, miškas, kinas. Įvardija abėcėlės raides, groja natas ir įgarsina aritmetiką.
 
 ### Nuo 4 iki 10+, vienas robotas
 4-7 metų (ikimokyklinis ir priešmokyklinis ugdymas): judėjimas ir posūkiai, labirintai, sekos, ciklai.
@@ -35,13 +35,13 @@ Robotas balsu ištaria kiekvieną žingsnį ir kiekvieną komandą Jūsų pasiri
 10+: tą patį robotą galima programuoti su Scratch.
 
 ### Jau naudoja
-Terra Numerica, Prancūzijos mokslo populiarinimo centras (Sophia Antipolis; CNRS, Inria ir Université Côte d'Azur projektas), jau naudoja PrimaSTEM savo užsiėmimuose.
+Terra Numerica jau naudoja PrimaSTEM savo užsiėmimuose. Tai CNRS, Inria ir Université Côte d'Azur projektas, Prancūzijos mokslo populiarinimo centras Sophia Antipolis mieste.
 
 Be ekrano. Sukurta Prancūzijoje, CE sertifikatas.
 
 *Kainą nustato platintojas.*
 
-Išbandykite robotą prieš pirkdami. Jis veikia tiesiog naršyklėje. Atidarykite nuorodą arba nukreipkite kamerą į QR kodą:
+Išbandykite robotą prieš pirkdami: jo simuliatorius veikia tiesiog naršyklėje. Atidarykite nuorodą arba nukreipkite kamerą į QR kodą:
 **simulator.primastem.com**
 *[QR: assets/qr/simulateur-qr.svg]*
 
